@@ -1,0 +1,1 @@
+[16-Feb-2025 09:29:15 UTC] PHP Warning:  file_get_contents(/home3/pearlxct/public_html/blog/wp-content/upgrade/luqaxptwqp/up.php): Failed to open stream: No such file or directory in /home3/pearlxct/public_html/blog/wp-includes/functions.php on line 6893
