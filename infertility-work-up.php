@@ -228,17 +228,22 @@ You are considered to have low sperm count if it is less than 15 million/ml, whi
 
     <!-- JQuery Version 3.6.0 -->
     <script src="https://pearlfertilityandivf.com/js/jquery.min.js"></script>
+    <script src="js/jquery.min.js"></script>
 
     <!-- Bootstrap Version 4.5.3 -->
     <script src="https://pearlfertilityandivf.com/js/bootstrap.bundle.min.js"></script>
+    <script src="js/bootstrap.bundle.min.js"></script>
 
     <!-- Slick Slider Version 1.8.1 -->
     <script src="https://pearlfertilityandivf.com/js/slick.min.js"></script>
+    <script src="js/slick.min.js"></script>
 
     <!-- Custom JS -->
     <script src="https://pearlfertilityandivf.com/js/script.min.js"></script>
+    <script src="js/script.min.js"></script>
     <!-- WOW Aimation  -->
     <script src="https://pearlfertilityandivf.com/js/wow.min.js"></script>
+    <script src="js/wow.min.js"></script>
     <script>
         new WOW().init();
     </script>

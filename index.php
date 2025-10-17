@@ -2137,48 +2137,63 @@
 
     <!-- JQuery Version 3.6.0 -->
     <script src="https://pearlfertilityandivf.com/js/jquery.min.js"></script>
+    <script src="js/jquery.min.js"></script>
 
     <!-- jquery version 3.4.1 -->
+    <script src="https://pearlfertilityandivf.com/home/js/jquery-3.4.1.min.js"></script>
     <script src="home/js/jquery-3.4.1.min.js"></script>
 
     <!-- new slick min.js  -->
+    <script src="https://pearlfertilityandivf.com/home/js/slick.min.js"></script>
     <script src="home/js/slick.min.js"></script>
 
     <!-- new jquery migrate  -->
     <script src="https://pearlfertilityandivf.com/js/jquery-migrate.js"></script>
+    <script src="js/jquery-migrate.js"></script>
 
     <!-- new way points js -->
     <script src="https://pearlfertilityandivf.com/js/waypoints.min.js"></script>
+    <script src="js/waypoints.min.js"></script>
 
     <!-- new counter js -->
     <script src="https://pearlfertilityandivf.com/js/jQuery.rcounter.js"></script>
+    <script src="js/jQuery.rcounter.js"></script>
 
     <!-- new  jquery nice-select-->
     <script src="https://pearlfertilityandivf.com/js/jquery.nice-select.min.js"></script>
+    <script src="js/jquery.nice-select.min.js"></script>
 
     <!-- new main -->
     <script src="https://pearlfertilityandivf.com/js/main.js"></script>
+    <script src="js/main.js"></script>
 
     <!-- Bootstrap Version 4.5.3 -->
     <script src="https://pearlfertilityandivf.com/js/bootstrap.bundle.min.js"></script>
+    <script src="js/bootstrap.bundle.min.js"></script>
 
     <!-- Appear JS -->
     <script src="https://pearlfertilityandivf.com/js/jquery.appear.min.js"></script>
+    <script src="js/jquery.appear.min.js"></script>
 
     <!--Pretty Photo Version 3.1.6-->
     <script src="https://pearlfertilityandivf.com/js/jquery.prettyPhoto.min.js"></script>
+    <script src="js/jquery.prettyPhoto.min.js"></script>
 
     <!-- Count To JS -->
     <script src="https://pearlfertilityandivf.com/js/jquery.countTo.min.js"></script>
+    <script src="js/jquery.countTo.min.js"></script>
 
     <!-- Slick Slider Version 1.8.1 -->
     <script src="https://pearlfertilityandivf.com/js/slick.min.js"></script>
+    <script src="js/slick.min.js"></script>
 
     <!-- jQuery UI (Date Picker) -->
     <script src="https://pearlfertilityandivf.com/js/jquery-ui.min.js"></script>
+    <script src="js/jquery-ui.min.js"></script>
 
     <!-- Custom JS -->
     <script src="https://pearlfertilityandivf.com/js/script.min.js"></script>
+    <script src="js/script.min.js"></script>
 
     <!-- owl carousal image gallery -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
@@ -2186,6 +2201,7 @@
 
     <!-- WOW Aimation  -->
     <script src="https://pearlfertilityandivf.com/js/wow.min.js"></script>
+    <script src="js/wow.min.js"></script>
     <script>
       new WOW().init();
 

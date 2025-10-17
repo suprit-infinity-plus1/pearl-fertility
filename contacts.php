@@ -56,6 +56,7 @@
     <link href="css/animate.css" type="text/css" rel="stylesheet">
 
     <!-- contact form css -->
+    <link rel="stylesheet" href="https://pearlfertilityandivf.com/css/new-contact-form.css">
     <link rel="stylesheet" href="./css/new-contact-form.css">
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-79657248-2"></script>
@@ -196,24 +197,31 @@
 
     <!-- JQuery Version 3.6.0 -->
     <script src="https://pearlfertilityandivf.com/js/jquery.min.js"></script>
+    <script src="js/jquery.min.js"></script>
 
     <!-- Bootstrap Version 4.5.3 -->
     <script src="https://pearlfertilityandivf.com/js/bootstrap.bundle.min.js"></script>
+    <script src="js/bootstrap.bundle.min.js"></script>
 
     <!-- Slick Slider Version 1.8.1 -->
     <script src="https://pearlfertilityandivf.com/js/slick.min.js"></script>
+    <script src="js/slick.min.js"></script>
 
     <!--jQuery Form for Ajax Submission-->
     <script src="https://pearlfertilityandivf.com/js/jquery.form.min.js"></script>
+    <script src="js/jquery.form.min.js"></script>
 
     <!--jQuery Validate for Form Validation before submission-->
     <script src="https://pearlfertilityandivf.com/js/jquery.validate.min.js"></script>
+    <script src="js/jquery.validate.min.js"></script>
 
     <!-- Custom JS -->
     <script src="https://pearlfertilityandivf.com/js/script.min.js"></script>
+    <script src="js/script.min.js"></script>
 
     <!-- WOW Aimation  -->
     <script src="https://pearlfertilityandivf.com/js/wow.min.js"></script>
+    <script src="js/wow.min.js"></script>
     <script>
         new WOW().init();
     </script>
