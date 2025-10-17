@@ -341,19 +341,19 @@
     <div id="back"><i class="ion-chevron-up-sharp"></i></div>
 
     <!-- JQuery Version 3.6.0 -->
-    <script src="js/jquery.min.js"></script>
+    <script src="https://pearlfertilityandivf.com/js/jquery.min.js"></script>
 
     <!-- Bootstrap Version 4.5.3 -->
-    <script src="js/bootstrap.bundle.min.js"></script>
+    <script src="https://pearlfertilityandivf.com/js/bootstrap.bundle.min.js"></script>
 
     <!-- Slick Slider Version 1.8.1 -->
-    <script src="js/slick.min.js"></script>
+    <script src="https://pearlfertilityandivf.com/js/slick.min.js"></script>
 
     <!-- jQuery UI (Date Picker) -->
-    <script src="js/jquery-ui.min.js"></script>
+    <script src="https://pearlfertilityandivf.com/js/jquery-ui.min.js"></script>
 
     <!-- Custom JS -->
-    <script src="js/script.min.js"></script>
+    <script src="https://pearlfertilityandivf.com/js/script.min.js"></script>
 
 </body>
 
