@@ -23,17 +23,23 @@
      <?php include "includes/tags.php" ?>
 
     <!-- Bootstrap Framework Version 4.5.3 -->
+    <link href="https://pearlfertilityandivf.com/css/bootstrap.min.css" type="text/css" rel="stylesheet">
     <link href="css/bootstrap.min.css" type="text/css" rel="stylesheet">
 
     <!-- Ion Icons Version 5.1.0 -->
+    <link href="https://pearlfertilityandivf.com/css/ionicons.css" type="text/css" rel="stylesheet">
     <link href="css/ionicons.css" type="text/css" rel="stylesheet">
 
     <!-- Medical Icons -->
+    <link href="https://pearlfertilityandivf.com/css/medwise-icons.css" type="text/css" rel="stylesheet">
     <link href="css/medwise-icons.css" type="text/css" rel="stylesheet">
 
     <!-- Stylesheets -->
+    <link href="https://pearlfertilityandivf.com/css/vendors.min.css" type="text/css" rel="stylesheet">
     <link href="css/vendors.min.css" type="text/css" rel="stylesheet">
+    <link href="https://pearlfertilityandivf.com/css/style.min.css" type="text/css" rel="stylesheet" id="style">
     <link href="css/style.min.css" type="text/css" rel="stylesheet" id="style">
+    <link href="https://pearlfertilityandivf.com/css/components.min.css" type="text/css" rel="stylesheet" id="components">
     <link href="css/components.min.css" type="text/css" rel="stylesheet" id="components">
 
     <!--Google Fonts-->
@@ -41,6 +47,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&amp;family=Manrope:wght@300;400;600;800&amp;family=Volkhov:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap" rel="stylesheet">
 
     <!-- Animation css -->
+    <link href="https://pearlfertilityandivf.com/css/animate.css" type="text/css" rel="stylesheet">
     <link href="css/animate.css" type="text/css" rel="stylesheet">
 
 
@@ -71,7 +78,7 @@
     <!-- Navbar -->
     <?php include './includes/header.php'; ?>
 
-    <div class="page-header"> <!-- Page Header -->
+    <div class="page-header lazy-background-unique"><!-- Page Header -->
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -117,7 +124,7 @@
                     <p class="h5 mb-30">Menopause clinics typically offer a range of services tailored to help women manage symptoms and maintain their overall health during this stage of life. Some common services and areas of focus may include:</p>
                 </div>
                 <div class="col-lg-6 col-md-6 col-12 wow fadeInRight">
-                    <img src="./web-page-images/menoapause-img.jpeg" class="img-fluid mt-5" alt="">
+                    <img src="./web-page-images/menoapause-img.jpeg" loading="lazy"  class="img-fluid mt-5" alt="">
                 </div>
 
             </div>

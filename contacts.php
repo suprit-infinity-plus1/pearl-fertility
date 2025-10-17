@@ -28,17 +28,23 @@
      <?php include "includes/tags.php" ?>
 
     <!-- Bootstrap Framework Version 4.5.3 -->
+    <link href="https://pearlfertilityandivf.com/css/bootstrap.min.css" type="text/css" rel="stylesheet">
     <link href="css/bootstrap.min.css" type="text/css" rel="stylesheet">
 
     <!-- Ion Icons Version 5.1.0 -->
+    <link href="https://pearlfertilityandivf.com/css/ionicons.css" type="text/css" rel="stylesheet">
     <link href="css/ionicons.css" type="text/css" rel="stylesheet">
 
     <!-- Medical Icons -->
+    <link href="https://pearlfertilityandivf.com/css/medwise-icons.css" type="text/css" rel="stylesheet">
     <link href="css/medwise-icons.css" type="text/css" rel="stylesheet">
 
     <!-- Stylesheets -->
+    <link href="https://pearlfertilityandivf.com/css/vendors.min.css" type="text/css" rel="stylesheet">
     <link href="css/vendors.min.css" type="text/css" rel="stylesheet">
+    <link href="https://pearlfertilityandivf.com/css/style.min.css" type="text/css" rel="stylesheet" id="style">
     <link href="css/style.min.css" type="text/css" rel="stylesheet" id="style">
+    <link href="https://pearlfertilityandivf.com/css/components.min.css" type="text/css" rel="stylesheet" id="components">
     <link href="css/components.min.css" type="text/css" rel="stylesheet" id="components">
 
     <!--Google Fonts-->
@@ -46,6 +52,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&amp;family=Manrope:wght@300;400;600;800&amp;family=Volkhov:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap" rel="stylesheet">
 
     <!-- Animation css -->
+    <link href="https://pearlfertilityandivf.com/css/animate.css" type="text/css" rel="stylesheet">
     <link href="css/animate.css" type="text/css" rel="stylesheet">
 
     <!-- contact form css -->
@@ -77,7 +84,7 @@
     <?php include './includes/header.php'; ?>
 
 
-    <div class="page-header" style="background-image: url(_images/contact.jpg);"> <!-- Page Header -->
+    <div class="page-header lazy-background-unique" style="background-image: url(_images/contact.jpg);"> <!-- Page Header -->
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -143,7 +150,7 @@
                     <p class="h6 d-flex align-items-top"><i class="ion-location-outline icon-left"></i>First Floor, Kanyakumari Heights, Bandar Pakhadi Rd, off New Link Road, Kandivali, Maharashtra Nagar,<br> Kandivali West, Mumbai, Maharashtra 400067</p>
                     <p class="h6 d-flex align-items-center"><i class="ion-call-outline icon-left"></i><a href="tel:+91 8779580308" style="color: black;">+91 8779580308</a></p>
                     <p class="h6 d-flex align-items-center mb-5"><i class="ion-mail-outline icon-left"></i><a href="mailto:pearlfertilitynivf@gmail.com" style=" color: black;">pearlfertilitynivf@gmail.com</a></p>
-                    <img src="address-images/KandivaliCenterAddress.png" style="width:100px;" alt="">
+                    <img src="address-images/KandivaliCenterAddress.png" loading="lazy" style="width:100px;" alt="">
                 </div>
             </div>
             <div class="col-lg-6 mt-20 mb-20">
@@ -154,7 +161,7 @@
                         1st Floor, Gorai Matru Ashish Society, B-Wing, Opp.Azra Bank, <br>RSC Rd Number 52, Gorai 2, <br>Borivali West, Mumbai, Maharashtra 400092</p>
                         <p class="h6 d-flex align-items-center"><i class="ion-call-outline icon-left"></i><a href="tel:+919022920663" style=" color: black;">+919022920663</a></p>
                         <p class="h6 d-flex align-items-center mb-5"><i class="ion-mail-outline icon-left"></i><a href="mailto:pearlfertilitynivf@gmail.com" style=" color: black;">pearlfertilitynivf@gmail.com</a></p>
-                        <img src="address-images/BorivaliCenterAddress.png" style="width:100px;" alt="">
+                        <img src="address-images/BorivaliCenterAddress.png" loading="lazy" style="width:100px;" alt="">
                 </div>
             </div>
             

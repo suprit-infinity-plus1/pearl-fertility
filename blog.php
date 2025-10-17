@@ -17,18 +17,28 @@
    <?php include "includes/tags.php" ?>
    
   <!-- Bootstrap Framework Version 4.5.3 -->
-  <link href="css/bootstrap.min.css" type="text/css" rel="stylesheet" />
+    <link href="https://pearlfertilityandivf.com/css/bootstrap.min.css" type="text/css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" type="text/css" rel="stylesheet">
 
-  <!-- Ion Icons Version 5.1.0 -->
-  <link href="css/ionicons.css" type="text/css" rel="stylesheet" />
+    <!-- Ion Icons Version 5.1.0 -->
+    <link href="https://pearlfertilityandivf.com/css/ionicons.css" type="text/css" rel="stylesheet">
+    <link href="css/ionicons.css" type="text/css" rel="stylesheet">
 
-  <!-- Medical Icons -->
-  <link href="css/medwise-icons.css" type="text/css" rel="stylesheet" />
+    <!-- Medical Icons -->
+    <link href="https://pearlfertilityandivf.com/css/medwise-icons.css" type="text/css" rel="stylesheet">
+    <link href="css/medwise-icons.css" type="text/css" rel="stylesheet">
 
-  <!-- Stylesheets -->
-  <link href="css/vendors.min.css" type="text/css" rel="stylesheet" />
-  <link href="css/style.min.css" type="text/css" rel="stylesheet" id="style" />
-  <link href="css/components.min.css" type="text/css" rel="stylesheet" id="components" />
+    <!-- Stylesheets -->
+    <link href="https://pearlfertilityandivf.com/css/vendors.min.css" type="text/css" rel="stylesheet">
+    <link href="css/vendors.min.css" type="text/css" rel="stylesheet">
+    <link href="https://pearlfertilityandivf.com/css/style.min.css" type="text/css" rel="stylesheet" id="style">
+    <link href="css/style.min.css" type="text/css" rel="stylesheet" id="style">
+    <link href="https://pearlfertilityandivf.com/css/components.min.css" type="text/css" rel="stylesheet" id="components">
+    <link href="css/components.min.css" type="text/css" rel="stylesheet" id="components">
+
+    <!-- Animation css -->
+    <link href="https://pearlfertilityandivf.com/css/animate.css" type="text/css" rel="stylesheet">
+    <link href="css/animate.css" type="text/css" rel="stylesheet">
 
   <!--Google Fonts-->
   <link rel="preconnect" href="https://fonts.gstatic.com/" />
@@ -61,7 +71,7 @@
 
 
 
-  <div class="page-header" style="background-image: url(_images/blog.png);">
+  <div class="page-header lazy-background-unique" style="background-image: url(_images/blog.png);">
     <!-- Page Header -->
     <div class="container">
       <div class="row">
@@ -89,7 +99,7 @@
       <div class="col-lg-8">
         <div class="blog-box">
           <div class="blog-header">
-            <img src="images/900-476-1.jpg" class="img-fluid rounded" alt="" />
+            <img src="images/900-476-1.jpg" loading="lazy" class="img-fluid rounded" alt="" />
             <h3 class="heading font-bold post-title">
               <a href="blog-artical.php">How technology can help you become healthy</a>
             </h3>
@@ -121,7 +131,7 @@
         </div>
         <div class="blog-box">
           <div class="blog-header">
-            <img src="images/900-476-2.jpg" class="img-fluid rounded" alt="" />
+            <img src="images/900-476-2.jpg" loading="lazy" class="img-fluid rounded" alt="" />
             <h3 class="heading font-bold post-title">
               <a href="blog-artical.php">Healthier options for those hunger-pangs</a>
             </h3>
@@ -153,7 +163,7 @@
         </div>
         <div class="blog-box">
           <div class="blog-header">
-            <img src="images/900-476-3.jpg" class="img-fluid rounded" alt="" />
+            <img src="images/900-476-3.jpg" loading="lazy" class="img-fluid rounded" alt="" />
             <h3 class="heading font-bold post-title">
               <a href="blog-artical.php">Complete guide to shoulder & neck pain</a>
             </h3>
@@ -185,7 +195,7 @@
         </div>
         <div class="blog-box">
           <div class="blog-header">
-            <img src="images/900-476-1.jpg" class="img-fluid rounded" alt="" />
+            <img src="images/900-476-1.jpg" loading="lazy" class="img-fluid rounded" alt="" />
             <h3 class="heading font-bold post-title">
               <a href="blog-artical.php">How too much running can damage your ankle</a>
             </h3>

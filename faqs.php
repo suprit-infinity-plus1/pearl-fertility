@@ -20,22 +20,28 @@
    <?php include "includes/tags.php" ?>
 
   <!-- Bootstrap Framework Version 4.5.3 -->
-  <link href="css/bootstrap.min.css" type="text/css" rel="stylesheet" />
+    <link href="https://pearlfertilityandivf.com/css/bootstrap.min.css" type="text/css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" type="text/css" rel="stylesheet">
 
-  <!-- Ion Icons Version 5.1.0 -->
-  <link href="css/ionicons.css" type="text/css" rel="stylesheet" />
+    <!-- Ion Icons Version 5.1.0 -->
+    <link href="https://pearlfertilityandivf.com/css/ionicons.css" type="text/css" rel="stylesheet">
+    <link href="css/ionicons.css" type="text/css" rel="stylesheet">
 
-  <!-- Medical Icons -->
-  <link href="css/medwise-icons.css" type="text/css" rel="stylesheet" />
+    <!-- Medical Icons -->
+    <link href="https://pearlfertilityandivf.com/css/medwise-icons.css" type="text/css" rel="stylesheet">
+    <link href="css/medwise-icons.css" type="text/css" rel="stylesheet">
 
-  <!-- Stylesheets -->
-  <link href="css/vendors.min.css" type="text/css" rel="stylesheet" />
-  <link href="css/style.min.css" type="text/css" rel="stylesheet" id="style" />
-  <link href="css/components.min.css" type="text/css" rel="stylesheet" id="components" />
+    <!-- Stylesheets -->
+    <link href="https://pearlfertilityandivf.com/css/vendors.min.css" type="text/css" rel="stylesheet">
+    <link href="css/vendors.min.css" type="text/css" rel="stylesheet">
+    <link href="https://pearlfertilityandivf.com/css/style.min.css" type="text/css" rel="stylesheet" id="style">
+    <link href="css/style.min.css" type="text/css" rel="stylesheet" id="style">
+    <link href="https://pearlfertilityandivf.com/css/components.min.css" type="text/css" rel="stylesheet" id="components">
+    <link href="css/components.min.css" type="text/css" rel="stylesheet" id="components">
 
-
-  <!-- Animation css -->
-  <link href="css/animate.css" type="text/css" rel="stylesheet">
+    <!-- Animation css -->
+    <link href="https://pearlfertilityandivf.com/css/animate.css" type="text/css" rel="stylesheet">
+    <link href="css/animate.css" type="text/css" rel="stylesheet">
 
 
   <!--Google Fonts-->
@@ -69,7 +75,7 @@
   <?php include './includes/header.php'; ?>
 
 
-  <div class="page-header" style="background-image: url(_images/faq.jpg);">
+  <div class="page-header lazy-background-unique" style="background-image: url(_images/faq.jpg);">
     <!-- Page Header -->
     <div class="container">
       <div class="row">
@@ -166,7 +172,7 @@
         </div>
       </div>
       <div class="col-lg-5 col-md-6 order-lg-1 mt-5 wow fadeInRight">
-        <img src="images/700-783-1.png" class="img-fluid" alt="" />
+        <img src="images/700-783-1.png" loading="lazy" class="img-fluid" alt="" />
       </div>
     </div>
   </div>

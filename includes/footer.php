@@ -202,7 +202,7 @@
                 </div>
                 <div class="col-lg-6 mt-10 mb-10 text-right">
                     <p class="mb-0 footer-text text-lg-right text-center">
-                        &copy; 2021 All Rights Reserved.
+                        &copy; 2025 All Rights Reserved.
                         <a href="http://wwsthemes.com/" target="_blank" class="font-semi-bold"> Fertility & IVF center in Mumbai</a>
                     </p>
                 </div>

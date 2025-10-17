@@ -175,7 +175,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 if (isset($_SESSION['redirection'])) {
   echo '';
 } else {
-  header("Location:https://pearlfertilityandivf.com/demo");
+  header("Location:https://pearlfertilityandivf.com/");
 }
 
 //Replace the plain text body with one created manually

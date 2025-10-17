@@ -28,25 +28,31 @@
      <?php include "includes/tags.php" ?>
 
     <!-- Bootstrap Framework Version 4.5.3 -->
+    <link href="https://pearlfertilityandivf.com/css/bootstrap.min.css" type="text/css" rel="stylesheet">
     <link href="css/bootstrap.min.css" type="text/css" rel="stylesheet">
 
     <!-- Ion Icons Version 5.1.0 -->
+    <link href="https://pearlfertilityandivf.com/css/ionicons.css" type="text/css" rel="stylesheet">
     <link href="css/ionicons.css" type="text/css" rel="stylesheet">
 
     <!-- Medical Icons -->
+    <link href="https://pearlfertilityandivf.com/css/medwise-icons.css" type="text/css" rel="stylesheet">
     <link href="css/medwise-icons.css" type="text/css" rel="stylesheet">
 
     <!-- Stylesheets -->
+    <link href="https://pearlfertilityandivf.com/css/vendors.min.css" type="text/css" rel="stylesheet">
     <link href="css/vendors.min.css" type="text/css" rel="stylesheet">
+    <link href="https://pearlfertilityandivf.com/css/style.min.css" type="text/css" rel="stylesheet" id="style">
     <link href="css/style.min.css" type="text/css" rel="stylesheet" id="style">
+    <link href="https://pearlfertilityandivf.com/css/components.min.css" type="text/css" rel="stylesheet" id="components">
     <link href="css/components.min.css" type="text/css" rel="stylesheet" id="components">
 
     <!--Google Fonts-->
     <link rel="preconnect" href="https://fonts.gstatic.com/">
     <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&amp;family=Manrope:wght@300;400;600;800&amp;family=Volkhov:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap" rel="stylesheet">
 
-
     <!-- Animation css -->
+    <link href="https://pearlfertilityandivf.com/css/animate.css" type="text/css" rel="stylesheet">
     <link href="css/animate.css" type="text/css" rel="stylesheet">
 
 
@@ -77,7 +83,7 @@
     <!-- -------header------- -->
     <?php include './includes/header.php'; ?>
 
-    <div class="page-header" style="background-image: url(_images/our-doctor.jpeg);"> <!-- Page Header -->
+    <div class="page-header lazy-background-unique" style="background-image: url(_images/our-doctor.jpeg);"> <!-- Page Header -->
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -113,7 +119,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-3 mt-20 wow fadeInLeft">
                     <div class="doctor-img">
-                        <img src="_images/ab3.jpg" class="img-fluid rounded-circle img-thumbnail" alt="">
+                        <img src="_images/ab3.jpg" loading="lazy" class="img-fluid rounded-circle img-thumbnail" alt="">
                     </div>
                 </div>
                 <div class="col-lg-5 mt-20 wow fadeInRight">
@@ -144,7 +150,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-3 mt-20">
                     <div class="doctor-img">
-                        <img src="_images/dr.rupali.jpg" class="img-fluid rounded-circle img-thumbnail wow fadeInUp" alt="">
+                        <img src="_images/dr.rupali.jpg" loading="lazy" class="img-fluid rounded-circle img-thumbnail wow fadeInUp" alt="">
                     </div>
                 </div>
                 <div class="col-lg-5 mt-20 wow fadeInRight">
