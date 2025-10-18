@@ -96,19 +96,19 @@
     </script>
     <style>
       .home-slider-area .bg-1{
-        background: url('_images/slide1.png') no-repeat center right;
+        background: url('_images/slide1.webp') no-repeat center right;
         background-size:cover;
       }
       .home-slider-area .bg-2{
-        background: url('_images/slide2.png') no-repeat center right;
+        background: url('_images/slide2.webp') no-repeat center right;
         background-size:cover;
       }
       .home-slider-area .bg-3{
-        background: url('_images/slide3.png') no-repeat center right;
+        background: url('_images/slide3.webp') no-repeat center right;
         background-size:cover;
       }
       .home-slider-area .bg-4{
-        background: url('_images/slide4.png') no-repeat center right;
+        background: url('_images/slide4.webp') no-repeat center right;
         background-size:cover;
       }
 
@@ -203,13 +203,11 @@
     <?php include './includes/header.php'; ?>
     
 
-    <div class="loader-backdrop">
-      <!-- Loader -->
+    <!-- <div class="loader-backdrop">
       <div class="loader">
-        <!-- <i class="ion-heart-outline"></i> -->
         <img src="_images/favicon.png" loading="lazy" width="100px " />
       </div>
-    </div>
+    </div> -->
 
     <!-- -------------- carousel-part--------  -->
     <div class="home-slider-area style-02">
@@ -217,90 +215,31 @@
         <div class="row">
           <div class="home-slider-one">
             <!--Slider Items Start-->
-            <div class="slider-items bg-1">
-              <div class="container">
-                <div class="slider-items-wrap">
-                  <div class="slider-inner">
-                    <div class="slider-content">
-                      <div class="slider-content-inner">
-                        <!--Section Title-->
-                        <!-- <div class="section-title pb-10">
-                        <h6 class="title uppercase black title-head">
-                          Introducing The
-                        </h6>
-                      </div> -->
-                        <!--// Section Title End-->
+            <!--<div class="slider-items bg-1">-->
+            <!--  <div class="container">-->
+            <!--    <div class="slider-items-wrap">-->
+            <!--      <div class="slider-inner">-->
+            <!--        <div class="slider-content">-->
+            <!--          <div class="slider-content-inner">-->
 
-                        <div class="slider-title">
-                          <h1 class="heading-01 h1-head">
-                            <!-- Empowering Journeys: -->
-                            Transforming Dreams into Reality, With Love
-                            <!-- <span class="bold"> Fertility And IVF</span> -->
-                          </h1>
-                        </div>
-                        <!--// Slider Title End-->
-                        <div class="slider-paragraph pb-25 pt-20">
-                          <p class="p-head">
-                          Where Happy Mothers Begin Their Journey
-                            <!-- Experience the empowering medical odyssey of
-                            Fertility and IVF Journeys, embracing transformative
-                            paths toward parenthood. -->
-                          </p>
-                        </div>
-                        <!--// Slider Paragraph End-->
-                        <!-- <div class="main-btn-wrap">
-                          <a href="" class="main-btn btn"  style="color:white"
-                            >Make An Appointment</a
-                          >
-                        </div> -->
-                        <!--// Main Btn Wrap End-->
-                      </div>
-                    </div>
-                    <!--// Slider Content End-->
-                    <div class="slider-img">
-                      <!-- <img src="_images/fertility2.png" loading="lazy" alt="img" />
-                   -->
-                    </div>
-                    <!--// Slider Img-->
-                  </div>
-                  <!--// Slider Inner-->
-
-                  <!-- <div class="slider-content-bottom">
-                  <div class="car-model">
-                    <div class="items">
-                      <div class="items__icon">
-                        <i class="flaticon-speedometer"></i>
-                      </div>
-                      <div class="items__content">
-                        <h5 class="heading-05">4.4s</h5>
-                        <p>From 0-100kmph</p>
-                      </div>
-                    </div>
-                    <div class="items">
-                      <div class="items__icon">
-                        <i class="flaticon-engine"></i>
-                      </div>
-                      <div class="items__content">
-                        <h5 class="heading-05">563hp</h5>
-                        <p>Engine Power</p>
-                      </div>
-                    </div>
-                    <div class="items">
-                      <div class="items__icon">
-                        <i class="flaticon-fuel-station"></i>
-                      </div>
-                      <div class="items__content">
-                        <h5 class="heading-05">100.0</h5>
-                        <p>Fuel Tank Capacity</p>
-                      </div>
-                    </div>
-                  </div>
-                </div> -->
-                </div>
-                <!--// Slider Item Wrap-->
-              </div>
-              <!--//Container-->
-            </div>
+            <!--            <div class="slider-title">-->
+            <!--              <h1 class="heading-01 h1-head">-->
+            <!--                Transforming Dreams into Reality, With Love-->
+            <!--              </h1>-->
+            <!--            </div>-->
+            <!--            <div class="slider-paragraph pb-25 pt-20">-->
+            <!--              <p class="p-head">-->
+            <!--              Where Happy Mothers Begin Their Journey-->
+            <!--              </p>-->
+            <!--            </div>-->
+            <!--          </div>-->
+            <!--        </div>-->
+            <!--        <div class="slider-img">-->
+            <!--        </div>-->
+            <!--      </div>-->
+            <!--    </div>-->
+            <!--  </div>-->
+            <!--</div>-->
             <!--// Slider Items End-->
 
             <!--Slider Items Start-->
@@ -393,93 +332,33 @@
             <!--// Slider Items End-->
 
             <!--Slider Items Start-->
-            <div class="slider-items bg-3">
-              <div class="container">
-                <div class="slider-items-wrap">
-                  <div class="slider-inner">
-                    <div class="slider-content">
-                      <div class="slider-content-inner">
-                        <!--Section Title-->
-                        <!-- <div class="section-title pb-10">
-                        <h6 class="title uppercase black title-head">
-                          Introducing The
-                        </h6>
-                      </div> -->
-                        <!--// Section Title End-->
+            <!--<div class="slider-items bg-3">-->
+            <!--  <div class="container">-->
+            <!--    <div class="slider-items-wrap">-->
+            <!--      <div class="slider-inner">-->
+            <!--        <div class="slider-content">-->
+            <!--          <div class="slider-content-inner">-->
 
-                        <div class="slider-title">
-                          <h1 class="heading-01 h1-head">
-                          Bringing Dreams to Life, Experience Miracles
-                            <!-- Conceiving Dreams: -->
-                            <!-- <span class="bold"
-                              >Fertility's Pathway To Pregnancy</span
-                            > -->
-                          </h1>
-                        </div>
+            <!--            <div class="slider-title">-->
+            <!--              <h1 class="heading-01 h1-head">-->
+            <!--              Bringing Dreams to Life, Experience Miracles-->
+            <!--              </h1>-->
+            <!--            </div>-->
                         <!--// Slider Title End-->
 
-                        <div class="slider-paragraph pb-25 pt-20">
-                          <p class="p-head">
-                          From Hope to Happiness: Your IVF Journey
-                            <!-- Signifies the intricate journey of conception,
-                            illustrating the navigation through challenges and
-                            triumphs on the way to the joyous destination of
-                            parenthood. -->
-                          </p>
-                        </div>
-                        <!--// Slider Paragraph End-->
-                        <!-- <div class="main-btn-wrap">
-                          <a href="#" class="main-btn btn"  style="color:white"
-                            >Make An Appointment</a
-                          >
-                        </div> -->
-                        <!--// Main Btn Wrap End-->
-                      </div>
-                    </div>
-                    <!--// Slider Content End-->
-                    <div class="slider-img">
-                      <!-- <img src="_images/h2-slider-03.png" loading="lazy" alt="img" /> -->
-                    </div>
-                    <!--// Slider Img-->
-                  </div>
-                  <!--// Slider Inner-->
-
-                  <!-- <div class="slider-content-bottom">
-                  <div class="car-model">
-                    <div class="items">
-                      <div class="items__icon">
-                        <i class="flaticon-speedometer"></i>
-                      </div>
-                      <div class="items__content">
-                        <h5 class="heading-05">4.4s</h5>
-                        <p>From 0-100kmph</p>
-                      </div>
-                    </div>
-                    <div class="items">
-                      <div class="items__icon">
-                        <i class="flaticon-engine"></i>
-                      </div>
-                      <div class="items__content">
-                        <h5 class="heading-05">566hp</h5>
-                        <p>Engine Power</p>
-                      </div>
-                    </div>
-                    <div class="items">
-                      <div class="items__icon">
-                        <i class="flaticon-fuel-station"></i>
-                      </div>
-                      <div class="items__content">
-                        <h5 class="heading-05">100.0</h5>
-                        <p>Fuel Tank Capacity</p>
-                      </div>
-                    </div>
-                  </div>
-                </div> -->
-                </div>
-                <!--// Slider Item Wrap-->
-              </div>
-              <!--//Container-->
-            </div>
+            <!--            <div class="slider-paragraph pb-25 pt-20">-->
+            <!--              <p class="p-head">-->
+            <!--              From Hope to Happiness: Your IVF Journey-->
+            <!--              </p>-->
+            <!--            </div>-->
+            <!--          </div>-->
+            <!--        </div>-->
+            <!--        <div class="slider-img">-->
+            <!--        </div>-->
+            <!--      </div>-->
+            <!--    </div>-->
+            <!--  </div>-->
+            <!--</div>-->
             <!--// Slider Items End-->
 
             <!--Slider Items Start-->
@@ -770,7 +649,7 @@
     <!-- -----------------Services icon showcase--------- A.A -->
     <div class="container mt-80">
       <div class="row justify-content-center">
-        <div class="col-lg-8 wow fadeInLeft" data-wow-delay="1s">
+        <div class="col-lg-8">
           <div class="heading-block">
             <h2 class="heading font-bold text-lh-4" style="color: #ff0b87">
               Welcome To Pearl Fertility And IVF

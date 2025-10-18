@@ -66,13 +66,11 @@
 
 <body>
 
-    <div class="loader-backdrop"> <!-- Loader -->
+    <!-- <div class="loader-backdrop">
         <div class="loader">
-            <!-- <i class="ion-heart-outline"></i> -->
             <img src="_images/favicon.png" width="100px ">
-
         </div>
-    </div>
+    </div> -->
 
     <!-- --------footer------ -->
     <?php include './includes/header.php'; ?>
