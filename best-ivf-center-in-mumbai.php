@@ -162,7 +162,7 @@
                     <!-- <a href="https://www.betheshyft.com/" class="btn btn-primary">Know More</a> -->
                 </div>
                 <div class="col-lg-6 col-md-6 col-12 wow fadeInRight">
-                    <img src="https://pearlfertilityandivf.com/_images/1-ivf.jpg" loading="lazy" class="img-fluid mt-5" alt="">
+                    <img src="https://pearlfertilityandivf.com/_images/cancer.png" loading="lazy" class="img-fluid mt-5" alt="">
                 </div>
 
             </div>
