@@ -45,7 +45,7 @@
   <nav class="navbar navbar-expand-lg sticky-nav">
     <!-- Navigation Bar -->
     <div class="container">
-      <a class="navbar-brand" href="index">
+      <a class="navbar-brand" href="https://pearlfertilityandivf.com">
         <img src="https://pearlfertilityandivf.com/_images/pearl-logo.png" alt="" class="logo" />
         <!-- Replace with your Logo -->
       </a>
@@ -82,27 +82,27 @@
 
                     <li class="menu-heading">IVF TREATMENTS</li>
                     <li>
-                      <a href="best-ivf-center-in-mumbai">IVF Center In Mumbai</a>
+                      <a href="https://pearlfertilityandivf.com/best-ivf-center-in-mumbai">IVF Center In Mumbai</a>
                     </li>
                     <li>
-                    <a href="ivf-cost-in-mumbai">IVF Cost in Mumbai</a>
+                    <a href="https://pearlfertilityandivf.com/ivf-cost-in-mumbai">IVF Cost in Mumbai</a>
                     </li>
                     <li>
-                    <a href="iui-treatment-in-mumbai">IUI Treatment In Mumbai</a>
+                    <a href="https://pearlfertilityandivf.com/iui-treatment-in-mumbai">IUI Treatment In Mumbai</a>
                     </li>
                     <li>
-                    <a href="imsi-treatment-in-mumbai">IMSI Treatment In Mumbai</a>
+                    <a href="https://pearlfertilityandivf.com/imsi-treatment-in-mumbai">IMSI Treatment In Mumbai</a>
                     </li>
                     <li>
-                      <a href="icsi-treatment-for-infertility">ICSI Treatment For Infertility</a>
+                      <a href="https://pearlfertilityandivf.com/icsi-treatment-for-infertility">ICSI Treatment For Infertility</a>
                     </li>
                     <li>
-                      <a href="fertility-evaluation">Fertility Evaluation</a>
+                      <a href="https://pearlfertilityandivf.com/fertility-evaluation">Fertility Evaluation</a>
                     </li>
                     <li>
-                      <a href="infertility-work-up">Infertility Work Up</a>
+                      <a href="https://pearlfertilityandivf.com/infertility-work-up">Infertility Work Up</a>
                     </li>
-                    <li><a href="blastocyst">Blastocyst Transfer</a></li>
+                    <li><a href="https://pearlfertilityandivf.com/blastocyst">Blastocyst Transfer</a></li>
 
                     <li class="hr"></li>
                     
@@ -121,19 +121,19 @@
                     <li class="menu-heading">GYNEC SERVICES</li>
 
                     <li>
-                      <a href="gynecologist-obstetrics-doctors-in-mumbai">Best Gynecologist In Mumbai</a>
+                      <a href="https://pearlfertilityandivf.com/gynecologist-obstetrics-doctors-in-mumbai">Best Gynecologist In Mumbai</a>
                     </li>
                     <li>
-                      <a href="best-lady-gynecologist-in-mumbai">Best Lady Gynecologist In Mumbai</a>
+                      <a href="https://pearlfertilityandivf.com/best-lady-gynecologist-in-mumbai">Best Lady Gynecologist In Mumbai</a>
                     </li>
                     <li>
-                      <a href="menopause-clinic">Menopause Clinic</a>
+                      <a href="https://pearlfertilityandivf.com/menopause-clinic">Menopause Clinic</a>
                     </li>
                     <li>
-                      <a href="contraception-counseling">Contraception counseling</a>
+                      <a href="https://pearlfertilityandivf.com/contraception-counseling">Contraception counseling</a>
                     </li>
                     <li>
-                      <a href="pcos-treatment-in-mumbai">PCOS Treatment In Mumbai</a>
+                      <a href="https://pearlfertilityandivf.com/pcos-treatment-in-mumbai">PCOS Treatment In Mumbai</a>
                     </li>
                     <li class="hr"></li>
 
@@ -149,13 +149,13 @@
                     <li class="menu-heading">FREEZING SERVICES</li>
 
                     <li>
-                      <a href="oocyte">Oocyte Freezing</a>
+                      <a href="https://pearlfertilityandivf.com/oocyte">Oocyte Freezing</a>
                     </li>
                     <li>
-                      <a href="embryo-freezing">Embryo Freezing</a>
+                      <a href="https://pearlfertilityandivf.com/embryo-freezing">Embryo Freezing</a>
                     </li>
                     <li>
-                      <a href="semen-freezing">Semen Freezing</a>
+                      <a href="https://pearlfertilityandivf.com/semen-freezing">Semen Freezing</a>
                     </li>
 
                     <li class="hr"></li>
@@ -163,13 +163,13 @@
 
                     <li class="menu-heading">DONOR SERVICE</li>
                     <li>
-                      <a href="donor-sperm">Donor Sperm</a>
+                      <a href="https://pearlfertilityandivf.com/donor-sperm">Donor Sperm</a>
                     </li>
                     <li>
-                      <a href="egg-donation">Egg Donation</a>
+                      <a href="https://pearlfertilityandivf.com/egg-donation">Egg Donation</a>
                     </li>
                     <li>
-                      <a href="donor-embryo">Donor Embryo</a>
+                      <a href="https://pearlfertilityandivf.com/donor-embryo">Donor Embryo</a>
                     </li>
                     <li class="hr"></li>
 
@@ -191,19 +191,19 @@
                     <!-- <li class="menu-heading">Icons</li> -->
                     <li class="menu-heading">OTHER SERVICES</li>
                     <li>
-                      <a href="automated-semen-analyser">Automated Semen Analyser</a>
+                      <a href="https://pearlfertilityandivf.com/automated-semen-analyser">Automated Semen Analyser</a>
                     </li>
                     <li>
-                      <a href="sonography">Comprehensive Sonography</a>
+                      <a href="https://pearlfertilityandivf.com/sonography">Comprehensive Sonography</a>
                     </li>
                     <li>
-                      <a href="laproscopy">Laparoscopy</a>
+                      <a href="https://pearlfertilityandivf.com/laproscopy">Laparoscopy</a>
                     </li>
                     <li>
-                      <a href="cervical-cancer">Cervical Cancer Screening</a>
+                      <a href="https://pearlfertilityandivf.com/cervical-cancer">Cervical Cancer Screening</a>
                     </li>
                     <li>
-                      <a href="hysteroscopy">Hysteroscopy</a>
+                      <a href="https://pearlfertilityandivf.com/hysteroscopy">Hysteroscopy</a>
                     </li>
                     <li class="hr"></li>
                     <!-- <li><a href="icon-boxes.html">Icon Boxes</a></li>
