@@ -102,165 +102,79 @@
             <div class="col-lg-8">
                 <h3 class="heading font-bold mb-20">Online Appointment Form</h3>
                 <p class="mb-30">The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left.</p>
-                <form>
-                    <div class="row">
-                        <div class="col-lg-6">
-                            <div class="form-group">
-                                <input class="form-control" type="text" placeholder="Your First Name">
-                            </div>
-                        </div>
-                        <div class="col-lg-6">
-                            <div class="form-group">
-                                <input class="form-control" type="text" placeholder="Your Last Name">
-                            </div>
+                <form action="email.php" method="POST">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="form-group">
+                            <input class="form-control" type="text" name="first_name" placeholder="Your First Name" required>
                         </div>
                     </div>
-                    <div class="row">
-                        <div class="col-lg-8">
-                            <div class="form-group">
-                                <input class="form-control" type="text" placeholder="Full Address">
-                            </div>
-                        </div>
-                        <div class="col-lg-4">
-                            <div class="form-group">
-                                <input class="form-control" type="text" placeholder="City">
-                            </div>
+                    <div class="col-lg-6">
+                        <div class="form-group">
+                            <input class="form-control" type="text" name="last_name" placeholder="Your Last Name" required>
                         </div>
                     </div>
-                    <div class="row">
-                        <div class="col-lg-6">
-                            <div class="form-group">
-                                <input class="form-control" type="text" placeholder="Your Phone Number">
-                            </div>
-                        </div>
-                        <div class="col-lg-6">
-                            <div class="form-group">
-                                <input class="form-control" type="text" placeholder="Your Email ID">
-                            </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-lg-8">
+                        <div class="form-group">
+                            <input class="form-control" type="text" name="address" placeholder="Full Address">
                         </div>
                     </div>
-                    <div class="row">
-                        <div class="col-lg-6">
-                            <div class="form-group">
-                                <input class="form-control date-select" type="text" placeholder="Date Of Birth">
-                            </div>
-                        </div>
-                        <div class="col-lg-6">
-                            <div class="form-group">
-                                <select class="form-control" tabindex="-98">
-                                    <option>Select Slot</option>
-                                    <option>9:00 p.m. - 12:00 p.m.</option>
-                                    <option>12:00 p.m. - 4:00 p.m.</option>
-                                    <option>4:00 p.m. - 8:00 p.m.</option>
-                                </select>
-                            </div>
-                        </div>
-                        <!-- emergency details -->
-                        <!-- <div class="col-lg-12">
-                            <fieldset>
-                                <legend>Emergency Details</legend>
-                                <div class="row">
-                                    <div class="col-lg-6">
-                                        <div class="form-group">
-                                            <input class="form-control" type="text" placeholder="Contact Person">
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-3">
-                                        <div class="form-group">
-                                            <select class="form-control" tabindex="-98">
-                                                <option>Blood Group</option>
-                                                <option>A+</option>
-                                                <option>B+</option>
-                                                <option>AB-</option>
-                                                <option>O+</option>
-                                            </select>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-3">
-                                        <div class="form-group">
-                                            <select class="form-control" tabindex="-98">
-                                                <option>Age</option>
-                                                <option>18-40</option>
-                                                <option>41-60</option>
-                                                <option>61+</option>
-                                            </select>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6">
-                                        <div class="custom-control custom-checkbox">
-                                            <input type="checkbox" class="custom-control-input" id="customCheck1">
-                                            <label class="custom-control-label" for="customCheck1">Willing to donate Blood</label>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6">
-                                        <label>Select Gender : </label>
-                                        <div class="custom-control custom-radio custom-control-inline ml-20">
-                                            <input type="radio" id="genderRadio1" name="genderRadio" class="custom-control-input">
-                                            <label class="custom-control-label" for="genderRadio1">Male</label>
-                                        </div>
-                                        <div class="custom-control custom-radio custom-control-inline">
-                                            <input type="radio" id="genderRadio2" name="genderRadio" class="custom-control-input">
-                                            <label class="custom-control-label" for="genderRadio2">Female</label>
-                                        </div>
-                                    </div>
-                                </div>
-                            </fieldset>
-                        </div> -->
-                        <!-- <div class="col-lg-6">
-                            <fieldset>
-                                <legend>Allergies, If Any</legend>
-                                <div class="form-group">
-                                    <input class="form-control" placeholder="Allergy 1">
-                                </div>
-                                <div class="form-group">
-                                    <input class="form-control" placeholder="Allergy 2">
-                                </div>
-                                <div class="form-group">
-                                    <input class="form-control" placeholder="Allergy 3">
-                                </div>
-                            </fieldset>
-                        </div> -->
-                        <!-- <div class="col-lg-6">
-                            <fieldset>
-                                <legend>Services Needed</legend>
-                                <div class="form-group mb-0">
-                                    <div class="custom-control custom-checkbox mb-10">
-                                        <input type="checkbox" class="custom-control-input" id="disease1">
-                                        <label class="custom-control-label" for="disease1">Blood pressure check</label>
-                                    </div>
-                                    <div class="custom-control custom-checkbox mb-10">
-                                        <input type="checkbox" class="custom-control-input" id="disease2">
-                                        <label class="custom-control-label" for="disease2">RBC count check</label>
-                                    </div>
-                                    <div class="custom-control custom-checkbox mb-10">
-                                        <input type="checkbox" class="custom-control-input" id="disease3">
-                                        <label class="custom-control-label" for="disease3">Bone marrow</label>
-                                    </div>
-                                    <div class="custom-control custom-checkbox mb-10">
-                                        <input type="checkbox" class="custom-control-input" id="disease4">
-                                        <label class="custom-control-label" for="disease4">Joint lubrication</label>
-                                    </div>
-                                    <div class="custom-control custom-checkbox mb-10">
-                                        <input type="checkbox" class="custom-control-input" id="disease5">
-                                        <label class="custom-control-label" for="disease5">Eye sight checkup</label>
-                                    </div>
-                                    <div class="custom-control custom-checkbox">
-                                        <input type="checkbox" class="custom-control-input" id="disease6">
-                                        <label class="custom-control-label" for="disease6">Liver profile</label>
-                                    </div>
-                                </div>
-                            </fieldset>
-                        </div> -->
-                        <div class="col-lg-12">
-                            <div class="form-group">
-                                <textarea class="form-control" rows="5" placeholder="Special Message"></textarea>
-                            </div>
+                    <div class="col-lg-4">
+                        <div class="form-group">
+                            <input class="form-control" type="text" name="city" placeholder="City">
                         </div>
                     </div>
-                    <div class="form-group">
-                        <button class="btn btn-primary" type="submit"><i class="ion-paper-plane-outline icon-left"></i> Book Appointment</button>
+                </div>
+
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="form-group">
+                            <input class="form-control" type="text" name="phone" placeholder="Your Phone Number" required>
+                        </div>
                     </div>
-                </form>
+                    <div class="col-lg-6">
+                        <div class="form-group">
+                            <input class="form-control" type="email" name="email" placeholder="Your Email ID" required>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="form-group">
+                            <input class="form-control date-select" type="text" name="dob" placeholder="Date Of Birth">
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="form-group">
+                            <select class="form-control" name="slot">
+                                <option value="">Select Slot</option>
+                                <option>9:00 a.m. - 12:00 p.m.</option>
+                                <option>12:00 p.m. - 4:00 p.m.</option>
+                                <option>4:00 p.m. - 8:00 p.m.</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="form-group">
+                            <textarea class="form-control" rows="5" name="message" placeholder="Special Message"></textarea>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <button class="btn btn-primary" type="submit">
+                        <i class="ion-paper-plane-outline icon-left"></i> Book Appointment
+                    </button>
+                </div>
+            </form>
+
             </div>
             <div class="col-lg-4 mt-40 mt-lg-0">
                 <aside class="sidebar pl-lg-20">

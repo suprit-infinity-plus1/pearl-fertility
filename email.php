@@ -92,8 +92,9 @@ $mail->setFrom('info@pearlfertilityandivf.com', 'Pearl Fertility');
 
 //Set who the message is to be sent to
 // $mail->addAddress('', 'Nighar Akhtar');
-$mail->addAddress('pearlfertilitynivf@gmail.com', 'Perl Feartility');
-$mail->addAddress('mirzafaizan1931@gmail.com', 'Faizan');
+// $mail->addAddress('pearlfertilitynivf@gmail.com', 'Perl Feartility');
+$mail->addAddress('siddiquimahfooz327@gmail.com', 'mahfooz');
+// $mail->addAddress('mirzafaizan1931@gmail.com', 'Faizan');
 
 
 //Set the subject line
@@ -106,7 +107,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   $name = ($_POST['name'] != '') ? $_POST['name'] : '';
   $email = ($_POST['email'] != '') ? $_POST['email'] : '';
   $phone = ($_POST['phone'] != '') ? $_POST['phone'] : '';
-  $message = ($_POST['message'] != '') ? $_POST['message'] : '';
+  $message = ($_POST['message'] != '') ? $_POST['message'] : ''; 
 
 
 
@@ -232,9 +233,6 @@ if (!$mail->send()) {
 
 <script>
   $('body').click(function() {
-
-
-    window.location = "https://pearlfertilityandivf.com/demo";
-
+    window.location = "https://pearlfertilityandivf.com";
   });
 </script>
