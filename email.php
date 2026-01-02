@@ -62,177 +62,100 @@
 <button style="display:none" id="success">Success</button>
 
 <?php
-
 session_start();
 
 use PHPMailer\PHPMailer\PHPMailer;
 
-//Load Composer's autoloader
+// Load Composer autoloader
 require 'vendor/autoload.php';
-
-//Load Composer's autoloader
 require 'vendor/phpmailer/phpmailer/src/PHPMailer.php';
 require 'vendor/phpmailer/phpmailer/src/Exception.php';
 require 'vendor/phpmailer/phpmailer/src/SMTP.php';
 
-//Create a new PHPMailer instance
 $mail = new PHPMailer();
 
 $mail->SMTPDebug = 0;
 $mail->Host = "mail.pearlfertilityandivf.com";
-
 $mail->Port = 465;
 $mail->IsHTML(true);
 
-//Set who the message is to be sent from
 $mail->setFrom('info@pearlfertilityandivf.com', 'Pearl Fertility');
+$mail->addAddress('pearlfertilitynivf@gmail.com', 'Perl Feartility');
+$mail->addBCC('sanjaresolutions@gmail.com', 'SanjareSolutions');
 
-//Set an alternative reply-to address
-// $mail->addReplyTo('replyto@gmail.com', 'Secure Developer');
+$mail->Subject = 'New Appointment Booking';
 
-//Set who the message is to be sent to
-// $mail->addAddress('', 'Nighar Akhtar');
-// $mail->addAddress('pearlfertilitynivf@gmail.com', 'Perl Feartility');
-$mail->addAddress('siddiquimahfooz327@gmail.com', 'mahfooz');
-// $mail->addAddress('mirzafaizan1931@gmail.com', 'Faizan');
-
-
-//Set the subject line
-$mail->Subject = 'Contact form submitted data.';
-//Read an HTML message body from an external file, convert referenced images to embedded,
-
-//convert HTML into a basic plain-text alternative body
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
-  $_SESSION["redirection"] = "done";
-  $name = ($_POST['name'] != '') ? $_POST['name'] : '';
-  $email = ($_POST['email'] != '') ? $_POST['email'] : '';
-  $phone = ($_POST['phone'] != '') ? $_POST['phone'] : '';
-  $message = ($_POST['message'] != '') ? $_POST['message'] : ''; 
 
+    $_SESSION["redirection"] = "done";
 
+    // 🔹 Get form fields safely
+    $name = ($_POST['name'] != '') ? $_POST['name'] : '';
+    $first_name = $_POST['first_name'] ?? '';
+    $last_name  = $_POST['last_name'] ?? '';
+    $address    = $_POST['address'] ?? '';
+    $city       = $_POST['city'] ?? '';
+    $phone      = $_POST['phone'] ?? '';
+    $email      = $_POST['email'] ?? '';
+    $dob        = $_POST['dob'] ?? '';
+    $slot       = $_POST['slot'] ?? '';
+    $message    = $_POST['message'] ?? '';
 
+    // 🔹 Build email table
+    $html = "
+    <table style='width:100%; border:2px solid black; border-collapse:collapse'>
+        <tr>";
 
-  // var_dump($message);
+    if ($name) $html .= "<th style='border:2px solid black'>Name</th>";
+    if ($first_name) $html .= "<th style='border:2px solid black'>First Name</th>";
+    if ($last_name)  $html .= "<th style='border:2px solid black'>Last Name</th>";
+    if ($address)    $html .= "<th style='border:2px solid black'>Address</th>";
+    if ($city)       $html .= "<th style='border:2px solid black'>City</th>";
+    if ($phone)      $html .= "<th style='border:2px solid black'>Phone</th>";
+    if ($email)      $html .= "<th style='border:2px solid black'>Email</th>";
+    if ($dob)        $html .= "<th style='border:2px solid black'>DOB</th>";
+    if ($slot)       $html .= "<th style='border:2px solid black'>Slot</th>";
+    if ($message)    $html .= "<th style='border:2px solid black'>Message</th>";
 
-  $html = "  
-    <table style='width: 100%;border: 2px solid black;border-collapse: collapse;'>
-    <tr style='width: 100%;border: 2px solid black;'>";
-  if (!empty($name)) {
-    $html .= "     <th style='width: 20%;border: 2px solid black;'>Enter your Name</th>";
-  }
-  if (!empty($email)) {
-    $html .= "      <th style='width: 20%;border: 2px solid black;'>Enter your Email</th>";
-  }
-  if (!empty($phone)) {
-    $html .= "      <th style='width: 20%;border: 2px solid black;'>Enter your Mobile Number</th>";
-  }
-  if (!empty($message)) {
-    $html .= "      <th style='width: 20%;border: 2px solid black;'>Enter your Message</th>";
-  }
+    $html .= "</tr><tr>";
 
-  $html .= "    
-    </tr>
-    <tr style='width: 100%;border: 2px solid black;'>";
-  if (!empty($name)) {
-    $html .= "     <th style='width: 20%;border: 2px solid black;'>" . $name . "</th>";
-  }
-  if (!empty($email)) {
-    $html .= "     <th style='width: 20%;border: 2px solid black;'>" . $email . "</th>";
-  }
-  if (!empty($phone)) {
-    $html .= "     <th style='width: 20%;border: 2px solid black;'>" . $phone . "</th>";
-  }
-  if (!empty($message)) {
-    $html .= "     <th style='width: 20%;border: 2px solid black;'>" . $message . "</th>";
-  }
-  $html .= "         </tr>
-            </table>";
+    if ($name) $html .= "<td style='border:2px solid black'>$name</td>";
+    if ($first_name) $html .= "<td style='border:2px solid black'>$first_name</td>";
+    if ($last_name)  $html .= "<td style='border:2px solid black'>$last_name</td>";
+    if ($address)    $html .= "<td style='border:2px solid black'>$address</td>";
+    if ($city)       $html .= "<td style='border:2px solid black'>$city</td>";
+    if ($phone)      $html .= "<td style='border:2px solid black'>$phone</td>";
+    if ($email)      $html .= "<td style='border:2px solid black'>$email</td>";
+    if ($dob)        $html .= "<td style='border:2px solid black'>$dob</td>";
+    if ($slot)       $html .= "<td style='border:2px solid black'>$slot</td>";
+    if ($message)    $html .= "<td style='border:2px solid black'>$message</td>";
 
+    $html .= "</tr></table>";
 
-  //            $curl = curl_init();
-  //     curl_setopt_array($curl, array(
-  //         CURLOPT_RETURNTRANSFER => 1,
-  //         CURLOPT_URL => 'https://sanjarcrm.com/api/leads/submit',
-  //         CURLOPT_POST => 1,
-  //         CURLOPT_POSTFIELDS => array(
-  //             'name' => $name,
-  //             'contact' => $contact,
-  //             'email' => $email,
-  //             'message' => $message,
-  //             'extra' => $city,
-  //              'table_alias' => 'cinemaonstage_com_',
-  //              'api_key' => '3c97a03bf567aa7ade93f52110a11652'
-  //         )
-  // ));
-
-  // Send the request & save response to $resp
-  //  $resp = curl_exec($curl);
-  // Close request to clear up some resources
-  //  curl_close($curl);
-
-  $mail->msgHTML($html);
+    $mail->msgHTML($html);
+    $mail->AltBody = 'New appointment booking received';
 }
 
-if (isset($_SESSION['redirection'])) {
-  echo '';
-} else {
-  header("Location:https://pearlfertilityandivf.com/");
-}
-
-//Replace the plain text body with one created manually
-$mail->AltBody = 'This is a plain-text message body';
-
-
-// add attachment
-
-// if ($_POST) {
-//     // die($_POST);
-//     $path = 'upload/' . $_FILES["resume"]["name"];
-//     move_uploaded_file($_FILES["resume"]["tmp_name"], $path);
-//     // var_dump($_POST);
-//     var_dump($path);
-
-
-//     $mail->AddAttachment($path);
-//     var_dump($path,$name,$experience,$contact,$email,$message);
-//     // die('$name');
-// }
-
-
-// send the message, check for errors
 if (!$mail->send()) {
-  echo "
-            <script type=\"text/javascript\">
-            swal(
-				'Success',
-        	'Your mail has been sent <b style=color:green>Successfully</b> ',
-				'success'
-			)
-            </script>
-        ";
-  session_unset();
-
-  // header("Location:https://saraogihospital.in/");
-  // die(' i m here');
+    echo "
+    <script>
+        swal('Error','Mail could not be sent','error');
+    </script>";
 } else {
-  echo "
-    <script type=\"text/javascript\">
-    swal(
-        'Success',
-        	'Your mail has been sent <b style=color:green>Successfully</b> ',
-        'success'
-    )
-    </script>
-";
-  session_unset();
-
-
-  // header("Location:index.html");
+    echo "
+    <script>
+        swal(
+            'Success',
+            'Your appointment has been <b style=color:green>booked successfully</b>',
+            'success'
+        );
+    </script>";
+    session_unset();
 }
 ?>
 
 <script>
-  $('body').click(function() {
+document.body.onclick = function () {
     window.location = "https://pearlfertilityandivf.com";
-  });
+};
 </script>
