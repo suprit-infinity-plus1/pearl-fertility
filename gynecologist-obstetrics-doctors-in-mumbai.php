@@ -18,7 +18,7 @@
     </title>
 
 
-    <meta name="keywords" content="Gynecologist & Obstetrics Doctors, gynecologist & Obstetrics Doctors in mumbai, Best gynecologist in Mumbai, Best gynecologist & Obstetrics in Mumbai, Doctors for Gynaecology & Obstetrics in Mumbai">
+    <meta name="keywords" content="Best Gynecologist & Obstetrics Doctors in Mumbai">
 
     <meta name="title" content="Best Gynecologist & Obstetrics Doctors in Mumbai | Pearl IVF">
 
