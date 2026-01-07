@@ -17,7 +17,6 @@
     </title>
 
     <meta name="keywords" content="Best Gynecologist Hospital in Mumbai">
-    <!-- <meta name="keywords" content="Best Gynecologist Hospital in Mumbai, Best IUI treatment centre in Mumbai, PCOS treatment in Mumbai, Low cost IVF centre in Mumbai, IVF cost in Mumbai, Best IVF Centre in Mumbai, Best ivf doctor in Mumbai, ICSI treatment for Infertility, ICSI in mumbai, Best lady gynecologist in Mumbai"> -->
     <meta name="title" content="Best Gynecologist Hospital in Mumbai - Pearl Fertility And IVF">
     <meta name="description" content="Pearl Infertility and IVF, One Stop Solution for Fertility & All other related Treatments. We are one of the Best  Gynecologist Hospitals in Mumbai. We have highly qualified and experienced group of doctors.">
     
@@ -44,7 +43,7 @@
     <link href="https://pearlfertilityandivf.com/css/vendors.min.css" type="text/css" rel="stylesheet">
     <link href="css/vendors.min.css" type="text/css" rel="stylesheet">
     <link href="https://pearlfertilityandivf.com/css/style.min.css" type="text/css" rel="stylesheet" id="style">
-    <link href="css/style.min.css" type="text/css" rel="stylesheet" id="style">
+    <link href="./css/style.min.css" type="text/css" rel="stylesheet" id="style">
     <link href="https://pearlfertilityandivf.com/css/components.min.css" type="text/css" rel="stylesheet" id="components">
     <link href="css/components.min.css" type="text/css" rel="stylesheet" id="components">
 
@@ -175,6 +174,49 @@
             </div> -->
         </div>
     </div>
+
+    <div class="serach-container-color">
+        <div class="container searched-keywords">
+            <h4 class="searched-keywords-title text-center mb-4">
+            Most Searched Keyword of Website
+            </h4>
+
+            <div class="row justify-content-center">
+                <div class="col-lg-3 col-md-6 mb-2 keyword-item">
+                    <span class="tick">✔</span>
+                    <span class="keyword-text">Best Gynecologist Hospital in Mumbai</span>
+                </div>
+
+                <div class="col-lg-3 col-md-6 mb-2 keyword-item">
+                    <span class="tick">✔</span>
+                    <span class="keyword-text">Best Gynecologist Hospital in Goregaon</span>
+                </div>
+
+                <div class="col-lg-3 col-md-6 mb-2 keyword-item">
+                    <span class="tick">✔</span>
+                    <span class="keyword-text">Best Gynecologist Hospital in Malad</span>
+                </div>
+
+                <div class="col-lg-3 col-md-6 mb-2 keyword-item">
+                    <span class="tick">✔</span>
+                    <span class="keyword-text">Best Gynecologist Hospital in Kandivali</span>
+                </div>
+
+                <div class="col-lg-3 col-md-6 mb-2 keyword-item">
+                    <span class="tick">✔</span>
+                    <span class="keyword-text">Best Gynecologist Hospital in Borivali</span>
+                </div>
+
+                <div class="col-lg-3 col-md-6 mb-2 keyword-item">
+                    <span class="tick">✔</span>
+                    <span class="keyword-text">Best Gynecologist Hospital in Dahisar</span>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
 
     <!-- <div class="container mb-60 mt-60 wow fadeInUp">
         <div class="row bg-light align-items-center bs-dark-sm pl-40 pr-40 pt-20 pb-20">

@@ -1812,6 +1812,10 @@
     </section>
 
     <!-- -----------------Blog -section------- -->
+   
+
+
+
     <div class="container mt-80 mb-80">
       <div class="row">
         <div class="col-lg-12">
@@ -1819,157 +1823,128 @@
             <h3 class="heading font-bold" style="padding-bottom: 24px">
               Our Blog
             </h3>
-            <!-- <p class="sub-heading">
-            Behind the word mountains, far from the countries Vokalia and
-            Consonantia
-          </p> -->
-          </div>
-        </div>
-        <!-- <div class="col-lg-4 mt-20">
-        <div class="blog-grid">
-          <div class="blog-header">
-            <img src="images/550-291-1.jpg" class="img-fluid rounded mb-30" alt="" />
-            <div class="blog-meta mb-10">
-              <ul class="meta-list">
-                <li class="posted-on">
-                  <a href="#">
-                    <span class="date">23</span>
-                    <span class="month">Sep</span>
-                  </a>
-                </li>
-                <li class="posted-in"><a href="#">Technology</a></li>
-              </ul>
-            </div>
-            <h4 class="heading font-bold text-lh-5 mb-10">
-              Technology can help you become healthy
-            </h4>
-          </div>
-          <div class="blog-excerpt">
-            <p>
-              Behind the word mountains, far from the countries Vokalia, there
-              live the texts
-            </p>
-            <a href="blog-artical.php" class="link-primary">Read More..</a>
           </div>
         </div>
       </div>
-      <div class="col-lg-4 mt-20">
-        <div class="blog-grid">
-          <div class="blog-header">
-            <img src="images/550-291-2.jpg" class="img-fluid rounded mb-30" alt="" />
-            <div class="blog-meta mb-10">
-              <ul class="meta-list">
-                <li class="posted-on">
-                  <a href="#">
-                    <span class="date">10</span>
-                    <span class="month">Oct</span>
-                  </a>
-                </li>
-                <li class="posted-in"><a href="#">Food</a></li>
-              </ul>
-            </div>
-            <h4 class="heading font-bold text-lh-5 mb-10">
-              Healthier options for those hunger-pangs
-            </h4>
-          </div>
-          <div class="blog-excerpt">
-            <p>
-              Behind the word mountains, far from the countries Vokalia, there
-              live the texts
-            </p>
-            <a href="blog-artical.php" class="link-primary">Read More..</a>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-4 mt-20">
-        <div class="blog-grid">
-          <div class="blog-header">
-            <img src="images/550-291-3.jpg" class="img-fluid rounded mb-30" alt="" />
-            <div class="blog-meta mb-10">
-              <ul class="meta-list">
-                <li class="posted-on">
-                  <a href="#">
-                    <span class="date">25</span>
-                    <span class="month">Nov</span>
-                  </a>
-                </li>
-                <li class="posted-in"><a href="#">Health Care</a></li>
-              </ul>
-            </div>
-            <h4 class="heading font-bold text-lh-5 mb-10">
-              Complete guide to shoulder &amp; neck pain
-            </h4>
-          </div>
-          <div class="blog-excerpt">
-            <p>
-              Behind the word mountains, far from the countries Vokalia, there
-              live the texts
-            </p>
-            <a href="blog-artical.php" class="link-primary">Read More..</a>
-          </div>
-        </div>
-      </div> -->
-      </div>
+      <?php
+        $apiUrl = 'https://pearlfertilityandivf.com/blogs/recent-blogs';
+        
+        $blogsJson = file_get_contents($apiUrl);
+        
+        $blogs = json_decode($blogsJson, true);
+        ?>
       <div class="row">
-        <div class="col-md-4 col-12 home-blog-card">
-          <div class="home-blog-card-img-container">
-            <img
-              src="images/blog-img/blog-1.png" loading="lazy"
-              alt=""
-            />
-          </div>
-          <div class="home-blog-card-content p-20">
-            <h2 class="home-blog-card-heading">
-              Testing for Female Infertility: What to Expect
-            </h2>
-            <p class="home-blog-card-info">
-              Understanding the intricacies of female infertility can be a crucial step on the journey to parenthood....
-            </p>
-            <div class="home-blog-card-btn">
-              <a href="https://pearlfertilityandivf.com/blog/2024/04/20/testing-for-female-infertility-what-to-expect/" class="home-blog-card-read-more-btn">Read More</a>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4 col-12 home-blog-card">
-          <div class="home-blog-card-img-container">
-            <img
-              src="images/blog-img/blog-2.jpg" loading="lazy"
-              alt=""
-            />
-          </div>
-          <div class="home-blog-card-content p-20">
-            <h2 class="home-blog-card-heading">
-              Exploring The Science Behind IVF: How It Works
-            </h2>
-            <p class="home-blog-card-info">
-              Do you want to grow your family but can’t conceive? If so, you may wonder if in vitro fertilization (IVF)...
-            </p>
-            <div class="home-blog-card-btn">
-              <a href="https://pearlfertilityandivf.com/blog/2024/04/20/exploring-the-science-behind-ivf-how-it-works/" class="home-blog-card-read-more-btn">Read More</a>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4 col-12 home-blog-card">
-          <div class="home-blog-card-img-container">
-            <img
-              src="images/blog-img/blog-3.jpg" loading="lazy"
-              alt=""
-            />
-          </div>
-          <div class="home-blog-card-content p-20">
-            <h2 class="home-blog-card-heading">
-              The Role Of Gratitude In The Fertility Journey: Finding Joy In The Process
-            </h2>
-            <p class="home-blog-card-info">
-              As you navigate your fertility journey, you’ll experience no shortage of emotions. One feeling you may...
-            </p>
-            <div class="home-blog-card-btn">
-              <a href="https://pearlfertilityandivf.com/blog/2024/04/20/the-role-of-gratitude-in-the-fertility-journey-finding-joy-in-the-process/" class="home-blog-card-read-more-btn">Read More</a>
-            </div>
-          </div>
-        </div>
-      </div>
+        <?php if (!empty($blogs)): ?>
+            <?php foreach ($blogs as $blog): ?>
+                <div class="col-lg-4 col-md-6 col-12 mt-4">
+                    <div class="shadow rounded border border-black h-100">
+                        <div class="home-blog-card-img-container">
+                            <img 
+                                src="https://pearlfertilityandivf.com/blogs/storage/<?php echo htmlspecialchars($blog['cover_image']); ?>"
+                                alt=""
+                                class="img-fluid w-100 rounded-top"
+                                style="height:200px; object-fit:cover;"
+                            />
+                        </div>
+    
+                        <div class="home-blog-card-content p-20">
+                            <h3 class="home-blog-card-heading">
+                                <a class="blue-title text-black" 
+                                   href="https://pearlfertilityandivf.com/blogs/<?php echo htmlspecialchars($blog['slug']); ?>">
+                                    <?php echo htmlspecialchars(mb_strimwidth($blog['title'], 0, 60, '...')); ?>
+                                </a>
+                            </h3>
+    
+                            <div class="blog-card-desc">
+                                <?php
+                                    echo mb_strimwidth(
+                                        strip_tags($blog['excerpt']),
+                                        0,
+                                        60,
+                                        '...'
+                                    );
+                                ?>
+                            </div>
+    
+                            <div class="home-blog-card-btn">
+                                <a 
+                                  href="https://pearlfertilityandivf.com/blogs/<?php echo htmlspecialchars($blog['slug']); ?>" 
+                                  class="home-blog-card-read-more-btn">
+                                    Read More
+                                </a>
+                            </div>
+                        </div>
+    
+                    </div>
+                </div>
+            <?php endforeach; ?>
+        <?php else: ?>
+            <!--<p>No blogs available.</p>-->
+        <?php endif; ?>
     </div>
+      <!--<div class="row">-->
+      <!--  <div class="col-md-4 col-12 home-blog-card">-->
+      <!--    <div class="home-blog-card-img-container">-->
+      <!--      <img-->
+      <!--        src="images/blog-img/blog-1.png" loading="lazy"-->
+      <!--        alt=""-->
+      <!--      />-->
+      <!--    </div>-->
+      <!--    <div class="home-blog-card-content p-20">-->
+      <!--      <h2 class="home-blog-card-heading">-->
+      <!--        Testing for Female Infertility: What to Expect-->
+      <!--      </h2>-->
+      <!--      <p class="home-blog-card-info">-->
+      <!--        Understanding the intricacies of female infertility can be a crucial step on the journey to parenthood....-->
+      <!--      </p>-->
+      <!--      <div class="home-blog-card-btn">-->
+      <!--        <a href="https://pearlfertilityandivf.com/blog/2024/04/20/testing-for-female-infertility-what-to-expect/" class="home-blog-card-read-more-btn">Read More</a>-->
+      <!--      </div>-->
+      <!--    </div>-->
+      <!--  </div>-->
+      <!--  <div class="col-md-4 col-12 home-blog-card">-->
+      <!--    <div class="home-blog-card-img-container">-->
+      <!--      <img-->
+      <!--        src="images/blog-img/blog-2.jpg" loading="lazy"-->
+      <!--        alt=""-->
+      <!--      />-->
+      <!--    </div>-->
+      <!--    <div class="home-blog-card-content p-20">-->
+      <!--      <h2 class="home-blog-card-heading">-->
+      <!--        Exploring The Science Behind IVF: How It Works-->
+      <!--      </h2>-->
+      <!--      <p class="home-blog-card-info">-->
+      <!--        Do you want to grow your family but can’t conceive? If so, you may wonder if in vitro fertilization (IVF)...-->
+      <!--      </p>-->
+      <!--      <div class="home-blog-card-btn">-->
+      <!--        <a href="https://pearlfertilityandivf.com/blog/2024/04/20/exploring-the-science-behind-ivf-how-it-works/" class="home-blog-card-read-more-btn">Read More</a>-->
+      <!--      </div>-->
+      <!--    </div>-->
+      <!--  </div>-->
+      <!--  <div class="col-md-4 col-12 home-blog-card">-->
+      <!--    <div class="home-blog-card-img-container">-->
+      <!--      <img-->
+      <!--        src="images/blog-img/blog-3.jpg" loading="lazy"-->
+      <!--        alt=""-->
+      <!--      />-->
+      <!--    </div>-->
+      <!--    <div class="home-blog-card-content p-20">-->
+      <!--      <h2 class="home-blog-card-heading">-->
+      <!--        The Role Of Gratitude In The Fertility Journey: Finding Joy In The Process-->
+      <!--      </h2>-->
+      <!--      <p class="home-blog-card-info">-->
+      <!--        As you navigate your fertility journey, you’ll experience no shortage of emotions. One feeling you may...-->
+      <!--      </p>-->
+      <!--      <div class="home-blog-card-btn">-->
+      <!--        <a href="https://pearlfertilityandivf.com/blog/2024/04/20/the-role-of-gratitude-in-the-fertility-journey-finding-joy-in-the-process/" class="home-blog-card-read-more-btn">Read More</a>-->
+      <!--      </div>-->
+      <!--    </div>-->
+      <!--  </div>-->
+      <!--</div>-->
+    </div>
+
+
+
 
     <!-- -------------footer------------ -->
     <?php include './includes/footer.php'; ?>

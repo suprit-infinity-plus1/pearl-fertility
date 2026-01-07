@@ -14,7 +14,12 @@
 
     <title>PCOS Treatment in Mumbai by Pearl Fertility And IVF</title>
 
-    <meta name="keywords" content="PCOS treatment in Mumbai">
+    <meta name="keywords" content="PCOS treatment in Mumbai,
+PCOS treatment in goregaon,
+PCOS treatment in malad,
+PCOS treatment in kandivali,
+PCOS treatment in borivali,
+PCOS treatment in dahisar">
     <meta name="title" content="PCOS Treatment in Mumbai by Pearl Fertility And IVF">
     <meta name="description" content="Get the Best PCOS Treatment in Mumbai. Consult with our expert doctors and get genuine and reliable solution at one visit.">
     
@@ -40,6 +45,7 @@
     <link href="https://pearlfertilityandivf.com/css/vendors.min.css" type="text/css" rel="stylesheet">
     <link href="https://pearlfertilityandivf.com/css/style.min.css" type="text/css" rel="stylesheet" id="style">
     <link href="https://pearlfertilityandivf.com/css/components.min.css" type="text/css" rel="stylesheet" id="components">
+    <link href="css/style.min.css" type="text/css" rel="stylesheet" id="style">
 
     <!--Google Fonts-->
     <link rel="preconnect" href="https://fonts.gstatic.com/">
@@ -213,6 +219,46 @@
             </div>
         </div>
     </div>
+    <div class="serach-container-color">
+        <div class="container searched-keywords">
+            <h4 class="searched-keywords-title text-center mb-4">
+                Most Searched Keyword of this Page
+            </h4>
+
+            <div class="row justify-content-center">
+                <div class="col-lg-3 col-md-6 mb-2 keyword-item">
+                    <span class="tick">✔</span>
+                    <span class="keyword-text">PCOS Treatment in Mumbai</span>
+                </div>
+
+                <div class="col-lg-3 col-md-6 mb-2 keyword-item">
+                    <span class="tick">✔</span>
+                    <span class="keyword-text">PCOS Treatment in Goregaon</span>
+                </div>
+
+                <div class="col-lg-3 col-md-6 mb-2 keyword-item">
+                    <span class="tick">✔</span>
+                    <span class="keyword-text">PCOS Treatment in Malad</span>
+                </div>
+
+                <div class="col-lg-3 col-md-6 mb-2 keyword-item">
+                    <span class="tick">✔</span>
+                    <span class="keyword-text">PCOS Treatment in Kandivali</span>
+                </div>
+
+                <div class="col-lg-3 col-md-6 mb-2 keyword-item">
+                    <span class="tick">✔</span>
+                    <span class="keyword-text">PCOS Treatment in Borivali</span>
+                </div>
+
+                <div class="col-lg-3 col-md-6 mb-2 keyword-item">
+                    <span class="tick">✔</span>
+                    <span class="keyword-text">PCOS Treatment in Dahisar</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <?php include './includes/footer.php'; ?>
 
     <div id="back"><i class="ion-chevron-up-sharp"></i></div>

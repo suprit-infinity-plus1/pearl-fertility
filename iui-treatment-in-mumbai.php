@@ -15,7 +15,12 @@
 
     <title>Best IUI Treatment Centre in Mumbai - Pearl Fertility And IVF</title>
 
-    <meta name="keywords" content="Best IUI treatment centre in Mumbai">
+    <meta name="keywords" content="Best IUI treatment centre in Mumbai,
+Best IUI treatment centre in goregaon,
+Best IUI treatment centre in malad,
+Best IUI treatment centre in kandivali,
+Best IUI treatment centre in borivali,
+Best IUI treatment centre in dahisar">
     <meta name="title" content="Best IUI Treatment Centre in Mumbai - Pearl Fertility And IVF">
     <meta name="description" content="Pearl Fertility & IVF is one of the Best IUI treatment centre in Mumbai. A very simple fertility treatment which can be done with or without fertility enhancing medicines by Pearl Fertility And IVF">
     
@@ -240,6 +245,47 @@
             </div>
         </div>
     </div>
+
+    <div class="serach-container-color">
+        <div class="container searched-keywords ">
+            <h4 class="searched-keywords-title text-center mb-4">
+                Most Searched Keyword of this Page
+            </h4>
+
+            <div class="row justify-content-center">
+                <div class="col-lg-3 col-md-6 mb-2 keyword-item">
+                    <span class="tick">✔</span>
+                    <span class="keyword-text">Best IUI Treatment Centre in Mumbai</span>
+                </div>
+
+                <div class="col-lg-3 col-md-6 mb-2 keyword-item">
+                    <span class="tick">✔</span>
+                    <span class="keyword-text">Best IUI Treatment Centre in Goregaon</span>
+                </div>
+
+                <div class="col-lg-3 col-md-6 mb-2 keyword-item">
+                    <span class="tick">✔</span>
+                    <span class="keyword-text">Best IUI Treatment Centre in Malad</span>
+                </div>
+
+                <div class="col-lg-3 col-md-6 mb-2 keyword-item">
+                    <span class="tick">✔</span>
+                    <span class="keyword-text">Best IUI Treatment Centre in Kandivali</span>
+                </div>
+
+                <div class="col-lg-3 col-md-6 mb-2 keyword-item">
+                    <span class="tick">✔</span>
+                    <span class="keyword-text">Best IUI Treatment Centre in Borivali</span>
+                </div>
+
+                <div class="col-lg-3 col-md-6 mb-2 keyword-item">
+                    <span class="tick">✔</span>
+                    <span class="keyword-text">Best IUI Treatment Centre in Dahisar</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
 
     <?php include './includes/footer.php'; ?>
 

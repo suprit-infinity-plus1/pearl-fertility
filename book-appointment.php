@@ -102,7 +102,7 @@
             <div class="col-lg-8">
                 <h3 class="heading font-bold mb-20">Online Appointment Form</h3>
                 <p class="mb-30">The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left.</p>
-                <form action="email.php" method="POST">
+               <form action="email.php" method="POST">
                 <div class="row">
                     <div class="col-lg-6">
                         <div class="form-group">
@@ -174,7 +174,6 @@
                     </button>
                 </div>
             </form>
-
             </div>
             <div class="col-lg-4 mt-40 mt-lg-0">
                 <aside class="sidebar pl-lg-20">

@@ -14,7 +14,12 @@
 
     <title>Low Cost IVF Centre in Mumbai | Best IVF Centre in Mumbai by Pearl Fertility And IVF</title>
 
-    <meta name="keywords" content="Low cost IVF centre in Mumbai, Best IVF Centre in Mumbai, Best ivf doctor in Mumbai">
+    <meta name="keywords" content="Best IVF Centre in Mumbai,
+Best IVF Centre in goregaon,
+Best IVF Centre in malad,
+Best IVF Centre in kandivali,
+Best IVF Centre in borivali,
+Best IVF Centre in dahisar">
     <meta name="title" content="Low Cost IVF Centre in Mumbai | Best IVF Centre in Mumbai by Pearl Fertility And IVF">
     <meta name="description" content="Pearl Fertility & IVF is one of the Best Low cost IVF Centre in Mumbai.We provide the most cost-effective treatment options only at Pearl Fertility And IVF Centre in Mumbai.">
     
@@ -48,6 +53,8 @@
 
     <!-- Animation css -->
     <link href="https://pearlfertilityandivf.com/css/animate.css" type="text/css" rel="stylesheet">
+        <link href="css/style.min.css" type="text/css" rel="stylesheet" id="style">
+
 
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -245,6 +252,47 @@
                         </div>
 
                     </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="serach-container-color">
+        <div class="container searched-keywords">
+            <h4 class="searched-keywords-title text-center mb-4">
+                Most Searched Keyword of this Page
+            </h4>
+
+            <div class="row justify-content-center">
+                <div class="col-lg-3 col-md-6 mb-2 keyword-item">
+                    <span class="tick">✔</span>
+                    <span class="keyword-text">Best IVF Centre in Mumbai</span>
+                </div>
+
+                <div class="col-lg-3 col-md-6 mb-2 keyword-item">
+                    <span class="tick">✔</span>
+                    <span class="keyword-text">Best IVF Centre in Goregaon</span>
+                </div>
+
+                <div class="col-lg-3 col-md-6 mb-2 keyword-item">
+                    <span class="tick">✔</span>
+                    <span class="keyword-text">Best IVF Centre in Malad</span>
+                </div>
+
+                <div class="col-lg-3 col-md-6 mb-2 keyword-item">
+                    <span class="tick">✔</span>
+                    <span class="keyword-text">Best IVF Centre in Kandivali</span>
+                </div>
+
+                <div class="col-lg-3 col-md-6 mb-2 keyword-item">
+                    <span class="tick">✔</span>
+                    <span class="keyword-text">Best IVF Centre in Borivali</span>
+                </div>
+
+                <div class="col-lg-3 col-md-6 mb-2 keyword-item">
+                    <span class="tick">✔</span>
+                    <span class="keyword-text">Best IVF Centre in Dahisar</span>
                 </div>
             </div>
         </div>

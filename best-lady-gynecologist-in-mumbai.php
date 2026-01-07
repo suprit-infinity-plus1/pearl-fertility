@@ -16,7 +16,12 @@
     Best Lady Gynecologist in Mumbai | Best IVF Doctor in Mumbai At Pearl Fertility And IVF
     </title>
 
-    <meta name="keywords" content="Best lady gynecologist in Mumbai, Best gynecologist in Mumbai, Best ivf doctor in Mumbai,">
+    <meta name="keywords" content="Best lady gynecologist in Mumbai,
+Best lady gynecologist in goregaon,
+Best lady gynecologist in malad,
+Best lady gynecologist in kandivali,
+Best lady gynecologist in borivali,
+Best lady gynecologist in dahisar">
     <meta name="title" content="Best Lady Gynecologist in Mumbai | Best IVF Doctor in Mumbai At Pearl Fertility And IVF">
     <meta name="description" content="We have team of experienced and Best IVF Doctors in Mumbai. Especially at our centre we have one of the best lady Gynecologist in Mumbai. Book Your Appointment!">
     
@@ -478,6 +483,46 @@
             </div>
         </div>
     </div> -->
+
+    <div class="serach-container-color">
+        <div class="container searched-keywords ">
+            <h4 class="searched-keywords-title text-center mb-4">
+                Most Searched Keyword of this Page
+            </h4>
+
+            <div class="row justify-content-center">
+                <div class="col-lg-3 col-md-6 mb-2 keyword-item">
+                    <span class="tick">✔</span>
+                    <span class="keyword-text">Best Lady Gynecologist in Mumbai</span>
+                </div>
+
+                <div class="col-lg-3 col-md-6 mb-2 keyword-item">
+                    <span class="tick">✔</span>
+                    <span class="keyword-text">Best Lady Gynecologist in Goregaon</span>
+                </div>
+
+                <div class="col-lg-3 col-md-6 mb-2 keyword-item">
+                    <span class="tick">✔</span>
+                    <span class="keyword-text">Best Lady Gynecologist in Malad</span>
+                </div>
+
+                <div class="col-lg-3 col-md-6 mb-2 keyword-item">
+                    <span class="tick">✔</span>
+                    <span class="keyword-text">Best Lady Gynecologist in Kandivali</span>
+                </div>
+
+                <div class="col-lg-3 col-md-6 mb-2 keyword-item">
+                    <span class="tick">✔</span>
+                    <span class="keyword-text">Best Lady Gynecologist in Borivali</span>
+                </div>
+
+                <div class="col-lg-3 col-md-6 mb-2 keyword-item">
+                    <span class="tick">✔</span>
+                    <span class="keyword-text">Best Lady Gynecologist in Dahisar</span>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <!-- fooooter -->
     <?php include './includes/footer.php'; ?>

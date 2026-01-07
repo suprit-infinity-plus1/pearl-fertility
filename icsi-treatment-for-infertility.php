@@ -14,7 +14,12 @@
 
     <title>ICSI Treatment for Infertility in Mumbai - Pearl Fertility And IVF</title>
 
-    <meta name="keywords" content="ICSI in mumbai, ICSI treatment for Infertility">
+    <meta name="keywords" content="ICSI treatment in mumbai,
+ ICSI treatment in goregaon,
+ICSI treatment in malad,
+ICSI treatment in kandivali,
+ICSI treatment in borivali,
+ICSI treatment in dahisar">
     <meta name="title" content="ICSI Treatment for Infertility in Mumbai - Pearl Fertility And IVF">
     <meta name="description" content="ICSI is the procedure where the best possible sperm is injected artificially in the egg and at our centre we provide the best ICSI treatment for Infertility at Pearl Fertility And IVF">
     
@@ -251,6 +256,48 @@
             </div>
         </div>
     </div>
+
+
+    <div class="serach-container-color">
+        <div class="container searched-keywords ">
+            <h4 class="searched-keywords-title text-center mb-4">
+                Most Searched Keyword of this Page
+            </h4>
+
+            <div class="row justify-content-center">
+                <div class="col-lg-3 col-md-6 mb-2 keyword-item">
+                    <span class="tick">✔</span>
+                    <span class="keyword-text">ICSI treatment in Mumbai</span>
+                </div>
+
+                <div class="col-lg-3 col-md-6 mb-2 keyword-item">
+                    <span class="tick">✔</span>
+                    <span class="keyword-text">ICSI treatment in Goregaon</span>
+                </div>
+
+                <div class="col-lg-3 col-md-6 mb-2 keyword-item">
+                    <span class="tick">✔</span>
+                    <span class="keyword-text">ICSI treatment in Malad</span>
+                </div>
+
+                <div class="col-lg-3 col-md-6 mb-2 keyword-item">
+                    <span class="tick">✔</span>
+                    <span class="keyword-text">ICSI treatment in Kandivali</span>
+                </div>
+
+                <div class="col-lg-3 col-md-6 mb-2 keyword-item">
+                    <span class="tick">✔</span>
+                    <span class="keyword-text">ICSI treatment in Borivali</span>
+                </div>
+
+                <div class="col-lg-3 col-md-6 mb-2 keyword-item">
+                    <span class="tick">✔</span>
+                    <span class="keyword-text">ICSI treatment in Dahisar</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
 
     <?php include './includes/footer.php'; ?>
 

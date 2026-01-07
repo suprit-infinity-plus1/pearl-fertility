@@ -18,7 +18,12 @@
     </title>
 
 
-    <meta name="keywords" content="Best Gynecologist & Obstetrics Doctors in Mumbai">
+    <meta name="keywords" content="Best Gynecologist & Obstetrics Doctors in Mumbai,
+Best Gynecologist & Obstetrics Doctors in goregaon,
+Best Gynecologist & Obstetrics Doctors in Malad,
+Best Gynecologist & Obstetrics Doctors in kandivali,
+Best Gynecologist & Obstetrics Doctors in borivali,
+Best Gynecologist & Obstetrics Doctors in dahisar">
 
     <meta name="title" content="Best Gynecologist & Obstetrics Doctors in Mumbai | Pearl IVF">
 
@@ -230,7 +235,46 @@
         
     </div>
             
-            
+    <div class="serach-container-color">
+        <div class="container searched-keywords mt-">
+            <h4 class="searched-keywords-title text-center mb-4">
+                Most Searched Keyword of this Page
+            </h4>
+
+            <div class="row justify-content-center">
+                <div class="col-lg-3 col-md-6 mb-2 keyword-item">
+                    <span class="tick">✔</span>
+                    <span class="keyword-text">Best Gynecologist &amp; Obstetrics Doctors in Mumbai</span>
+                </div>
+
+                <div class="col-lg-3 col-md-6 mb-2 keyword-item">
+                    <span class="tick">✔</span>
+                    <span class="keyword-text">Best Gynecologist &amp; Obstetrics Doctors in Goregaon</span>
+                </div>
+
+                <div class="col-lg-3 col-md-6 mb-2 keyword-item">
+                    <span class="tick">✔</span>
+                    <span class="keyword-text">Best Gynecologist &amp; Obstetrics Doctors in Malad</span>
+                </div>
+
+                <div class="col-lg-3 col-md-6 mb-2 keyword-item">
+                    <span class="tick">✔</span>
+                    <span class="keyword-text">Best Gynecologist &amp; Obstetrics Doctors in Kandivali</span>
+                </div>
+
+                <div class="col-lg-3 col-md-6 mb-2 keyword-item">
+                    <span class="tick">✔</span>
+                    <span class="keyword-text">Best Gynecologist &amp; Obstetrics Doctors in Borivali</span>
+                </div>
+
+                <div class="col-lg-3 col-md-6 mb-2 keyword-item">
+                    <span class="tick">✔</span>
+                    <span class="keyword-text">Best Gynecologist &amp; Obstetrics Doctors in Dahisar</span>
+                </div>
+            </div>
+        </div>
+    </div>
+  
           
      
 
