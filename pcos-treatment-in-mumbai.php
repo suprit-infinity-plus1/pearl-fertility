@@ -45,7 +45,6 @@ PCOS treatment in dahisar">
     <link href="https://pearlfertilityandivf.com/css/vendors.min.css" type="text/css" rel="stylesheet">
     <link href="https://pearlfertilityandivf.com/css/style.min.css" type="text/css" rel="stylesheet" id="style">
     <link href="https://pearlfertilityandivf.com/css/components.min.css" type="text/css" rel="stylesheet" id="components">
-    <link href="css/style.min.css" type="text/css" rel="stylesheet" id="style">
 
     <!--Google Fonts-->
     <link rel="preconnect" href="https://fonts.gstatic.com/">
@@ -219,10 +218,11 @@ PCOS treatment in dahisar">
             </div>
         </div>
     </div>
-    <div class="serach-container-color">
+    
+        <div class="serach-container-color">
         <div class="container searched-keywords">
             <h4 class="searched-keywords-title text-center mb-4">
-                Most Searched Keyword of this Page
+                Most Searched Keyword PCOS Treatment
             </h4>
 
             <div class="row justify-content-center">
@@ -258,7 +258,6 @@ PCOS treatment in dahisar">
             </div>
         </div>
     </div>
-
     <?php include './includes/footer.php'; ?>
 
     <div id="back"><i class="ion-chevron-up-sharp"></i></div>

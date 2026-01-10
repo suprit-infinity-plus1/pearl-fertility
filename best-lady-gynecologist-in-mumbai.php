@@ -128,7 +128,7 @@ Best lady gynecologist in dahisar">
                 <div class="col-lg-5 mt-20 wow fadeInRight">
                     <div class="doctor-details">
                         <h3 class="heading font-bold mb-10">Dr.Pritimala Gangurde Kadam</h3>
-                        <h5 class="heading">Gynaechologist</h5>
+                        <h5 class="heading">Gynecologist</h5>
                         <p class="mb-20">
                             <span class="badge bg-white border">M.B.B.S.</span>&nbsp;
                             <span class="badge bg-white border"> D.N.B</span>&nbsp;
@@ -159,7 +159,7 @@ Best lady gynecologist in dahisar">
                 <div class="col-lg-5 mt-20 wow fadeInRight">
                     <div class="doctor-details">
                         <h3 class="heading font-bold mb-10">Dr.Rupali Gangurde</h3>
-                        <h5 class="heading">Gynaechologist</h5>
+                        <h5 class="heading">Gynecologist</h5>
                         <p class="mb-20">
                             <span class="badge bg-white border">M.B.B.S</span>&nbsp;
                             <span class="badge bg-white border"> MD </span>&nbsp;
@@ -484,10 +484,10 @@ Best lady gynecologist in dahisar">
         </div>
     </div> -->
 
-    <div class="serach-container-color">
+<div class="serach-container-color">
         <div class="container searched-keywords ">
             <h4 class="searched-keywords-title text-center mb-4">
-                Most Searched Keyword of this Page
+                Most Searched Keyword For Best Gynecologist
             </h4>
 
             <div class="row justify-content-center">
@@ -523,7 +523,6 @@ Best lady gynecologist in dahisar">
             </div>
         </div>
     </div>
-
     <!-- fooooter -->
     <?php include './includes/footer.php'; ?>
 

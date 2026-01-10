@@ -53,8 +53,6 @@ Best IVF Centre in dahisar">
 
     <!-- Animation css -->
     <link href="https://pearlfertilityandivf.com/css/animate.css" type="text/css" rel="stylesheet">
-        <link href="css/style.min.css" type="text/css" rel="stylesheet" id="style">
-
 
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -257,11 +255,10 @@ Best IVF Centre in dahisar">
         </div>
     </div>
 
-
-    <div class="serach-container-color">
+        <div class="serach-container-color">
         <div class="container searched-keywords">
             <h4 class="searched-keywords-title text-center mb-4">
-                Most Searched Keyword of this Page
+                Most Searched Keyword For Best IVF Center
             </h4>
 
             <div class="row justify-content-center">
@@ -297,7 +294,6 @@ Best IVF Centre in dahisar">
             </div>
         </div>
     </div>
-
     <?php include './includes/footer.php'; ?>
 
     <div id="back"><i class="ion-chevron-up-sharp"></i></div>

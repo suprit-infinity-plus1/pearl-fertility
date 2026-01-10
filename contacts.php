@@ -43,7 +43,7 @@
     <link href="https://pearlfertilityandivf.com/css/vendors.min.css" type="text/css" rel="stylesheet">
     <link href="css/vendors.min.css" type="text/css" rel="stylesheet">
     <link href="https://pearlfertilityandivf.com/css/style.min.css" type="text/css" rel="stylesheet" id="style">
-    <link href="./css/style.min.css" type="text/css" rel="stylesheet" id="style">
+    <link href="css/style.min.css" type="text/css" rel="stylesheet" id="style">
     <link href="https://pearlfertilityandivf.com/css/components.min.css" type="text/css" rel="stylesheet" id="components">
     <link href="css/components.min.css" type="text/css" rel="stylesheet" id="components">
 
@@ -175,6 +175,18 @@
         </div>
     </div>
 
+    <!-- <div class="container mb-60 mt-60 wow fadeInUp">
+        <div class="row bg-light align-items-center bs-dark-sm pl-40 pr-40 pt-20 pb-20">
+            <div class="col-lg-8 mt-20 mb-20">
+                <h3 class="heading font-bold text-lh-5 mb-0 mr-60">Online video consultations are quick, easy & hassle free.</h3>
+            </div>
+            <div class="col-lg-4 text-lg-center mt-20 mb-20">
+                <a href="#" class="btn btn-primary flex-shrink-0">
+                    <i class="ion-videocam-outline icon-left"></i>Try Video Consultation
+                </a>
+            </div>
+        </div>
+    </div> -->
     <div class="serach-container-color">
         <div class="container searched-keywords">
             <h4 class="searched-keywords-title text-center mb-4">
@@ -215,21 +227,6 @@
             </div>
         </div>
     </div>
-
-
-
-    <!-- <div class="container mb-60 mt-60 wow fadeInUp">
-        <div class="row bg-light align-items-center bs-dark-sm pl-40 pr-40 pt-20 pb-20">
-            <div class="col-lg-8 mt-20 mb-20">
-                <h3 class="heading font-bold text-lh-5 mb-0 mr-60">Online video consultations are quick, easy & hassle free.</h3>
-            </div>
-            <div class="col-lg-4 text-lg-center mt-20 mb-20">
-                <a href="#" class="btn btn-primary flex-shrink-0">
-                    <i class="ion-videocam-outline icon-left"></i>Try Video Consultation
-                </a>
-            </div>
-        </div>
-    </div> -->
     <!-- --------footer------ -->
     <?php include './includes/footer.php'; ?>
 

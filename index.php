@@ -1838,6 +1838,7 @@
             <?php foreach ($blogs as $blog): ?>
                 <div class="col-lg-4 col-md-6 col-12 mt-4">
                     <div class="shadow rounded border border-black h-100">
+    
                         <div class="home-blog-card-img-container">
                             <img 
                                 src="https://pearlfertilityandivf.com/blogs/storage/<?php echo htmlspecialchars($blog['cover_image']); ?>"
@@ -1858,7 +1859,7 @@
                             <div class="blog-card-desc">
                                 <?php
                                     echo mb_strimwidth(
-                                        strip_tags($blog['excerpt']),
+                                        strip_tags($blog['content']),
                                         0,
                                         60,
                                         '...'
