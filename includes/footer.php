@@ -26,9 +26,12 @@
                       4038 Liberty Avenue, California
                     </div>
                   </li> -->
-                            <li><i class="fa-solid fa-phone"></i><a href="tel:+919022920663" style="color: #abb2ba;">+91 9022920663</a></li>
-                            <li><i class="fa-solid fa-phone"></i><a href="tel:+91 8779580308" style="color: #abb2ba;">+91 8779580308</a></li>
-                            <li><i class="fa-solid fa-envelope"></i><a href="mailto:pearlfertilitynivf@gmail.com" style="color: #abb2ba;"> pearlfertilitynivf@gmail.com </a></li>
+                            <li><i class="fa-solid fa-phone"></i><a href="tel:+919022920663" style="color: #abb2ba;">+91
+                                    9022920663</a></li>
+                            <li><i class="fa-solid fa-phone"></i><a href="tel:+91 8779580308"
+                                    style="color: #abb2ba;">+91 8779580308</a></li>
+                            <li><i class="fa-solid fa-envelope"></i><a href="mailto:pearlfertilitynivf@gmail.com"
+                                    style="color: #abb2ba;"> pearlfertilitynivf@gmail.com </a></li>
                         </ul>
                         <!-- <hr class="mt-30 mb-30" /> -->
 
@@ -66,9 +69,10 @@
                         <h5 class="heading font-bold mb-20">Social Connect</h5>
                         <ul class="social social-round social-2x">
                             <li>
-                                <a class="facebook" href="https://www.facebook.com/pearlfertilityanddiagnostics/"><i class="ion-logo-facebook"></i></a>
+                                <a class="facebook" href="https://www.facebook.com/pearlfertilityanddiagnostics/"><i
+                                        class="ion-logo-facebook"></i></a>
                             </li>
-                            
+
                             <!-- <li>
                                 <a class="twitter" href="#"><i class="ion-logo-twitter"></i></a>
                             </li>
@@ -76,15 +80,19 @@
                                 <a class="google" href="#"><i class="ion-logo-google"></i></a>
                             </li> -->
                             <li>
-                                <a class="youtube" href="https://www.youtube.com/@pearlfertilityandivf"><i class="ion-logo-youtube"></i></a>
+                                <a class="youtube" href="https://www.youtube.com/@pearlfertilityandivf"><i
+                                        class="ion-logo-youtube"></i></a>
                             </li>
                             <li>
-                                <a class="youtube" href="https://twitter.com/i/flow/login?redirect_after_login=%2Ffertility_pearl"><i class="fa-brands fa-x-twitter"></i></a>
+                                <a class="youtube"
+                                    href="https://twitter.com/i/flow/login?redirect_after_login=%2Ffertility_pearl"><i
+                                        class="fa-brands fa-x-twitter"></i></a>
                             </li>
 
-                            
+
                             <li>
-                                <a class="facebook" href="https://www.instagram.com/pearlfertilityandivf/"><i class="ion-logo-instagram"></i></a>
+                                <a class="facebook" href="https://www.instagram.com/pearlfertilityandivf/"><i
+                                        class="ion-logo-instagram"></i></a>
                             </li>
                         </ul>
                         <!-- Widget -->
@@ -148,7 +156,8 @@
                         <form class="search" action="email.php" method="post">
                             <!-- Search Form -->
                             <div class="input-group">
-                                <input type="email" class="form-control curved style-1" name="email" placeholder="Your Email Id" />
+                                <input type="email" class="form-control curved style-1" name="email"
+                                    placeholder="Your Email Id" />
                                 <div class="input-group-append">
                                     <button class="btn btn-primary curved" type="submit">
                                         Send
@@ -203,7 +212,8 @@
                 <div class="col-lg-6 mt-10 mb-10 text-right">
                     <p class="mb-0 footer-text text-lg-right text-center">
                         &copy; 2025 All Rights Reserved.
-                        <a href="http://wwsthemes.com/" target="_blank" class="font-semi-bold"> Fertility & IVF center in Mumbai</a>
+                        <a href="http://wwsthemes.com/" target="_blank" class="font-semi-bold"> Fertility & IVF center
+                            in Mumbai</a>
                     </p>
                 </div>
             </div>

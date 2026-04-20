@@ -13,7 +13,7 @@
     <link rel="canonical" href="https://pearlfertilityandivf.com/best-lady-gynecologist-in-mumbai/">
 
     <title>
-    Best Lady Gynecologist in Mumbai | Best IVF Doctor in Mumbai At Pearl Fertility And IVF
+        Best Lady Gynecologist in Mumbai | Best IVF Doctor in Mumbai At Pearl Fertility And IVF
     </title>
 
     <meta name="keywords" content="Best lady gynecologist in Mumbai,
@@ -22,15 +22,17 @@ Best lady gynecologist in malad,
 Best lady gynecologist in kandivali,
 Best lady gynecologist in borivali,
 Best lady gynecologist in dahisar">
-    <meta name="title" content="Best Lady Gynecologist in Mumbai | Best IVF Doctor in Mumbai At Pearl Fertility And IVF">
-    <meta name="description" content="We have team of experienced and Best IVF Doctors in Mumbai. Especially at our centre we have one of the best lady Gynecologist in Mumbai. Book Your Appointment!">
-    
+    <meta name="title"
+        content="Best Lady Gynecologist in Mumbai | Best IVF Doctor in Mumbai At Pearl Fertility And IVF">
+    <meta name="description"
+        content="We have team of experienced and Best IVF Doctors in Mumbai. Especially at our centre we have one of the best lady Gynecologist in Mumbai. Book Your Appointment!">
+
 
     <!-- Favicon -->
     <link rel="icon" href="_images/favicon.png" type="image/x-icon" />
 
-     <!--  adding tags.php by kadir -->
-     <?php include "includes/tags.php" ?>
+    <!--  adding tags.php by kadir -->
+    <?php include "includes/tags.php" ?>
 
     <!-- Bootstrap Framework Version 4.5.3 -->
     <link href="https://pearlfertilityandivf.com/css/bootstrap.min.css" type="text/css" rel="stylesheet">
@@ -49,12 +51,15 @@ Best lady gynecologist in dahisar">
     <link href="css/vendors.min.css" type="text/css" rel="stylesheet">
     <link href="https://pearlfertilityandivf.com/css/style.min.css" type="text/css" rel="stylesheet" id="style">
     <link href="css/style.min.css" type="text/css" rel="stylesheet" id="style">
-    <link href="https://pearlfertilityandivf.com/css/components.min.css" type="text/css" rel="stylesheet" id="components">
+    <link href="https://pearlfertilityandivf.com/css/components.min.css" type="text/css" rel="stylesheet"
+        id="components">
     <link href="css/components.min.css" type="text/css" rel="stylesheet" id="components">
 
     <!--Google Fonts-->
     <link rel="preconnect" href="https://fonts.gstatic.com/">
-    <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&amp;family=Manrope:wght@300;400;600;800&amp;family=Volkhov:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&amp;family=Manrope:wght@300;400;600;800&amp;family=Volkhov:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap"
+        rel="stylesheet">
 
     <!-- Animation css -->
     <link href="https://pearlfertilityandivf.com/css/animate.css" type="text/css" rel="stylesheet">
@@ -86,7 +91,8 @@ Best lady gynecologist in dahisar">
     <!-- -------header------- -->
     <?php include './includes/header.php'; ?>
 
-    <div class="page-header lazy-background-unique" style="background-image: url(_images/our-doctor.jpeg);"> <!-- Page Header -->
+    <div class="page-header lazy-background-unique" style="background-image: url(_images/our-doctor.jpeg);">
+        <!-- Page Header -->
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -122,7 +128,8 @@ Best lady gynecologist in dahisar">
             <div class="row align-items-center">
                 <div class="col-lg-3 mt-20 wow fadeInLeft">
                     <div class="doctor-img">
-                        <img src="_images/ab3.jpg" loading="lazy" class="img-fluid rounded-circle img-thumbnail" alt="">
+                        <img src="_images/ab3.webp" loading="lazy" class="img-fluid rounded-circle img-thumbnail"
+                            alt="Dr.Pritimala Gangurde Kadam">
                     </div>
                 </div>
                 <div class="col-lg-5 mt-20 wow fadeInRight">
@@ -134,15 +141,24 @@ Best lady gynecologist in dahisar">
                             <span class="badge bg-white border"> D.N.B</span>&nbsp;
                             <span class="badge bg-white border">-INFERTILITY SPECIALIST</span>
                         </p>
-                        <p class="h6 mb-0">MBBS DNB ( Obst & Gyn ) masters in reproductive medicine & IVF (London), PG reproductive medicine(ACOG), Diploma in Ivf & Rep medicine( Germany ). Work experience of 6 yrs at well reputed Dept of IVF, Lilavati hospital & research centre, Bandra West. Mumbai</p>
+                        <p class="h6 mb-0">MBBS DNB ( Obst & Gyn ) masters in reproductive medicine & IVF (London), PG
+                            reproductive medicine(ACOG), Diploma in Ivf & Rep medicine( Germany ). Work experience of 6
+                            yrs at well reputed Dept of IVF, Lilavati hospital & research centre, Bandra West. Mumbai
+                        </p>
                     </div>
                 </div>
                 <div class="col-lg-4 mt-20 wow fadeInRight">
-                    <p class="h6 d-flex align-items-center opacity-08 mb-0"><i class="ion-mail-outline icon-left text-primary"></i><a href="mailto:pearlfertilitynivf@gmail.com" style=" color: black;">pearlfertilitynivf@gmail.com
+                    <p class="h6 d-flex align-items-center opacity-08 mb-0"><i
+                            class="ion-mail-outline icon-left text-primary"></i><a
+                            href="mailto:pearlfertilitynivf@gmail.com"
+                            style=" color: black;">pearlfertilitynivf@gmail.com
                         </a></p>
-                    <p class="h6 d-flex align-items-center opacity-08 mb-30"><i class="ion-call-outline icon-left text-primary"></i><a href="tel:+919022920663" style=" color: black;">+919022920663</a></p>
+                    <p class="h6 d-flex align-items-center opacity-08 mb-30"><i
+                            class="ion-call-outline icon-left text-primary"></i><a href="tel:+919022920663"
+                            style=" color: black;">+919022920663</a></p>
 
-                    <a href="book-appointment-form.html" class="btn btn-primary curved">Book Appointment <i class="ion-arrow-forward-sharp icon-right"></i></a>
+                    <a href="book-appointment-form.html" class="btn btn-primary curved">Book Appointment <i
+                            class="ion-arrow-forward-sharp icon-right"></i></a>
                 </div>
             </div>
         </div>
@@ -153,7 +169,8 @@ Best lady gynecologist in dahisar">
             <div class="row align-items-center">
                 <div class="col-lg-3 mt-20">
                     <div class="doctor-img">
-                        <img src="_images/dr.rupali.jpg" loading="lazy" class="img-fluid rounded-circle img-thumbnail wow fadeInUp" alt="">
+                        <img src="_images/dr.rupali.webp" loading="lazy"
+                            class="img-fluid rounded-circle img-thumbnail wow fadeInUp" alt="Dr.Rupali Gangurde">
                     </div>
                 </div>
                 <div class="col-lg-5 mt-20 wow fadeInRight">
@@ -167,15 +184,23 @@ Best lady gynecologist in dahisar">
                             <span class="badge bg-white border">(GMC MIRAJ)</span>
 
                         </p>
-                        <p class="h6 mb-0">Dr Rupali Gangurde performs all routine blood test, specialized investigation (hormone assay, semen analysis, allergy panel), Body Profile, Special interest in F.N.A.C., Cytology, Histopathology.</p>
+                        <p class="h6 mb-0">Dr Rupali Gangurde performs all routine blood test, specialized investigation
+                            (hormone assay, semen analysis, allergy panel), Body Profile, Special interest in F.N.A.C.,
+                            Cytology, Histopathology.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 mt-20 wow fadeInRight">
-                    <p class="h6 d-flex align-items-center opacity-08 mb-0"><i class="ion-mail-outline icon-left text-primary"></i><a href="mailto:pearlfertilitynivf@gmail.com" style=" color: black;">pearlfertilitynivf@gmail.com
+                    <p class="h6 d-flex align-items-center opacity-08 mb-0"><i
+                            class="ion-mail-outline icon-left text-primary"></i><a
+                            href="mailto:pearlfertilitynivf@gmail.com"
+                            style=" color: black;">pearlfertilitynivf@gmail.com
                         </a></p>
-                    <p class="h6 d-flex align-items-center opacity-08 mb-30"><i class="ion-call-outline icon-left text-primary"></i><a href="tel:+919022920663" style=" color: black;">+919022920663</a></p>
+                    <p class="h6 d-flex align-items-center opacity-08 mb-30"><i
+                            class="ion-call-outline icon-left text-primary"></i><a href="tel:+919022920663"
+                            style=" color: black;">+919022920663</a></p>
 
-                    <a href="book-appointment-form.html" class="btn btn-primary curved">Book Appointment <i class="ion-arrow-forward-sharp icon-right"></i></a>
+                    <a href="book-appointment-form.html" class="btn btn-primary curved">Book Appointment <i
+                            class="ion-arrow-forward-sharp icon-right"></i></a>
                 </div>
             </div>
         </div>
@@ -193,7 +218,9 @@ Best lady gynecologist in dahisar">
         <div class="row ">
             <div class="col-lg-6 mt-20 pr-lg-30 wow fadeInLeft">
                 <!-- <h4 class="heading font-bold text-secondary">Biography</h4> -->
-                <p class="mb-0 text-justify">Pearl Fertility and IVF also think about elderly couples who desire to get our services; for them, we own an in-house multidisciplinary team of doctors, technicians, dietitian and counsellors.</p>
+                <p class="mb-0 text-justify">Pearl Fertility and IVF also think about elderly couples who desire to get
+                    our services; for them, we own an in-house multidisciplinary team of doctors, technicians, dietitian
+                    and counsellors.</p>
             </div>
             <div class="col-lg-6 mt-20 pl-lg-30 wow fadeInRight">
                 <!-- <h4 class="heading font-bold text-secondary">Experience</h4> -->
@@ -238,48 +265,61 @@ Best lady gynecologist in dahisar">
         <div class="row mb-5 wow fadeInUp">
             <div class=" col-12 ">
                 <!-- <h4 class=" heading font-bold text-secondary">Biography</h4> -->
-            <p class="mb-0 text-justify">A gynecologist and an obstetrician almost seem to be twins. Women’s reproductive systems are the focus of gynaecology. Unlike obstetrics, which treats pregnant women and their complications, anaesthesiology treats females who are not pregnant.
+                <p class="mb-0 text-justify">A gynecologist and an obstetrician almost seem to be twins. Women’s
+                    reproductive systems are the focus of gynaecology. Unlike obstetrics, which treats pregnant women
+                    and their complications, anaesthesiology treats females who are not pregnant.
 
-                Gynecology focuses mainly on treating hormonal, urinary tract, uterine, and vaginal ailments in non-pregnant women. It depends on the individual’s condition whether they need surgery.</p>
-        </div>
-        <div class="col-lg-12">
-            <div id="a1" class="accordion-1 accordion" role="tablist">
-                <div class="accordion-item">
-                    <div class="accordion-head" role="tab" id="a1heading1">
-                        <h6 class="accordion-title font-bold">
-                            <a role="button" data-toggle="collapse" href="#a1body1" aria-expanded="true" aria-controls="a1body1">
-                                When should you consult a gynecologist?
-                            </a>
-                        </h6>
-                    </div>
-                    <div id="a1body1" data-parent="#a1" class="accordion-body collapse show" role="tabpanel" aria-labelledby="a1heading1">
-                        <div class="accordion-data">
-                            <p>Gynecologists specialize in female reproductive health. Including breasts, ovaries, uteruses, and fallopian tubes, they can treat all female reproductive health issues.</p>
-                            <p>Best lady Gynecologist in Mumbai recommend annual screenings. Gynecologists who are reputable can provide you with the best treatment. When suffering from any of the following gynaecological issues, Pearl Fertility should be consulted:</p>
-                            <ul>
-                                <li>Problems related to bisexuality or same-sex relationships</li>
-                                <li>Intense cramps or abnormal or irregular cycles are symptoms of menstrual problems.</li>
-                                <li>Infections caused by sexual contact</li>
-                                <li>Termination, sterilization, and contraception of pregnancy</li>
-                                <li>An ovarian disorder caused by polycystic ovaries</li>
-                                <li>Reproductive system cancer, cervix cancer, or breast cancer</li>
-                                <li>Continence problems with urine</li>
-                                <li>Anomalies arising from birth</li>
-                                <li>Dysfunction in sexuality</li>
-                                <li>Issues related to menopause</li>
-                                <li>Endometriosis is a condition mainly affecting the reproductive system</li>
-                                <li>Breast-related problems such as fibroids, vaginal ulcers, vulval cysts, and ovarian cysts</li>
-                                <li>A lack of support for the pelvic organs due to ligaments, tissues, and muscles</li>
-
-                            </ul>
-                            <p>It’s easy to ask questions about sexuality, menstruation, and other stuff once they feel comfortable with the gynaecologist.</p>
+                    Gynecology focuses mainly on treating hormonal, urinary tract, uterine, and vaginal ailments in
+                    non-pregnant women. It depends on the individual’s condition whether they need surgery.</p>
+            </div>
+            <div class="col-lg-12">
+                <div id="a1" class="accordion-1 accordion" role="tablist">
+                    <div class="accordion-item">
+                        <div class="accordion-head" role="tab" id="a1heading1">
+                            <h6 class="accordion-title font-bold">
+                                <a role="button" data-toggle="collapse" href="#a1body1" aria-expanded="true"
+                                    aria-controls="a1body1">
+                                    When should you consult a gynecologist?
+                                </a>
+                            </h6>
                         </div>
-                    </div>
+                        <div id="a1body1" data-parent="#a1" class="accordion-body collapse show" role="tabpanel"
+                            aria-labelledby="a1heading1">
+                            <div class="accordion-data">
+                                <p>Gynecologists specialize in female reproductive health. Including breasts, ovaries,
+                                    uteruses, and fallopian tubes, they can treat all female reproductive health issues.
+                                </p>
+                                <p>Best lady Gynecologist in Mumbai recommend annual screenings. Gynecologists who are
+                                    reputable can provide you with the best treatment. When suffering from any of the
+                                    following gynaecological issues, Pearl Fertility should be consulted:</p>
+                                <ul>
+                                    <li>Problems related to bisexuality or same-sex relationships</li>
+                                    <li>Intense cramps or abnormal or irregular cycles are symptoms of menstrual
+                                        problems.</li>
+                                    <li>Infections caused by sexual contact</li>
+                                    <li>Termination, sterilization, and contraception of pregnancy</li>
+                                    <li>An ovarian disorder caused by polycystic ovaries</li>
+                                    <li>Reproductive system cancer, cervix cancer, or breast cancer</li>
+                                    <li>Continence problems with urine</li>
+                                    <li>Anomalies arising from birth</li>
+                                    <li>Dysfunction in sexuality</li>
+                                    <li>Issues related to menopause</li>
+                                    <li>Endometriosis is a condition mainly affecting the reproductive system</li>
+                                    <li>Breast-related problems such as fibroids, vaginal ulcers, vulval cysts, and
+                                        ovarian cysts</li>
+                                    <li>A lack of support for the pelvic organs due to ligaments, tissues, and muscles
+                                    </li>
 
+                                </ul>
+                                <p>It’s easy to ask questions about sexuality, menstruation, and other stuff once they
+                                    feel comfortable with the gynaecologist.</p>
+                            </div>
+                        </div>
+
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
     </div>
     <!-- ----------counter --------- -->
     <!-- <div class="bg-primary pt-60 pb-60 mt-80" style="background-image: url(images/world-map-2.png); background-repeat: no-repeat; background-position: right center; background-size: contain;">
@@ -484,7 +524,7 @@ Best lady gynecologist in dahisar">
         </div>
     </div> -->
 
-<div class="serach-container-color">
+    <div class="serach-container-color">
         <div class="container searched-keywords ">
             <h4 class="searched-keywords-title text-center mb-4">
                 Most Searched Keyword For Best Gynecologist
