@@ -85,16 +85,17 @@
                       <a href="https://pearlfertilityandivf.com/best-ivf-center-in-mumbai">IVF Center In Mumbai</a>
                     </li>
                     <li>
-                    <a href="https://pearlfertilityandivf.com/ivf-cost-in-mumbai">IVF Cost in Mumbai</a>
+                      <a href="https://pearlfertilityandivf.com/ivf-cost-in-mumbai">IVF Cost in Mumbai</a>
                     </li>
                     <li>
-                    <a href="https://pearlfertilityandivf.com/iui-treatment-in-mumbai">IUI Treatment In Mumbai</a>
+                      <a href="https://pearlfertilityandivf.com/iui-treatment-in-mumbai">IUI Treatment In Mumbai</a>
                     </li>
                     <li>
-                    <a href="https://pearlfertilityandivf.com/imsi-treatment-in-mumbai">IMSI Treatment In Mumbai</a>
+                      <a href="https://pearlfertilityandivf.com/imsi-treatment-in-mumbai">IMSI Treatment In Mumbai</a>
                     </li>
                     <li>
-                      <a href="https://pearlfertilityandivf.com/icsi-treatment-for-infertility">ICSI Treatment For Infertility</a>
+                      <a href="https://pearlfertilityandivf.com/icsi-treatment-for-infertility">ICSI Treatment For
+                        Infertility</a>
                     </li>
                     <li>
                       <a href="https://pearlfertilityandivf.com/fertility-evaluation">Fertility Evaluation</a>
@@ -105,14 +106,14 @@
                     <li><a href="https://pearlfertilityandivf.com/blastocyst">Blastocyst Transfer</a></li>
 
                     <li class="hr"></li>
-                    
+
                     <!-- ----------HR--------- -->
                     <!-- <li class="hr"></li>
                     <li class="menu-heading">IVF Center In Mumbai</li>
                     <li>
                       <a href="2d-echo-ecg-usg">2D- ECHO, ECG, USG</a>
                     </li> -->
-                    
+
 
                 </div>
                 <div class="col-lg-3">
@@ -121,10 +122,12 @@
                     <li class="menu-heading">GYNEC SERVICES</li>
 
                     <li>
-                      <a href="https://pearlfertilityandivf.com/gynecologist-obstetrics-doctors-in-mumbai">Best Gynecologist In Mumbai</a>
+                      <a href="https://pearlfertilityandivf.com/gynecologist-obstetrics-doctors-in-mumbai">Best
+                        Gynecologist In Mumbai</a>
                     </li>
                     <li>
-                      <a href="https://pearlfertilityandivf.com/best-lady-gynecologist-in-mumbai">Best Lady Gynecologist In Mumbai</a>
+                      <a href="https://pearlfertilityandivf.com/best-lady-gynecologist-in-mumbai">Best Lady Gynecologist
+                        In Mumbai</a>
                     </li>
                     <li>
                       <a href="https://pearlfertilityandivf.com/menopause-clinic">Menopause Clinic</a>
