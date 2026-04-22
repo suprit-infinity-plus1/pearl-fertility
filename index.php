@@ -1006,9 +1006,10 @@
                   <div class="col">
                     <div class="card p-3 review-card">
                       <div class="d-flex m-2 col-12">
-                        <img style="width: 50px; height: 50px"
-                          src="https://www.goticketspro.com/wp-content/uploads/2024/02/ChIJyT3o3nLTQIYRuXsWN3R8UjY_a5734c7808ae2c5bfedaed6c9b9d930c.jpg"
-                          class="card-img-top" alt="img" />
+                        <div
+                          style="width: 50px;height: 50px; border-radius:50%; background-color: #d167d4ff; display: flex; align-items: center; justify-content: center;">
+                          <p style="font-size: 20px; font-weight: 900; color: white; margin: 0;">S</p>
+                        </div>
                         <div class="m-2">
                           <h5 style="font-size: 13px" class="card-title">
                             SNEHA BHIWANDKAR
@@ -1060,9 +1061,10 @@
                   <div class="col">
                     <div class="card p-3 review-card">
                       <div class="d-flex m-">
-                        <img style="width: 50px; height: 50px"
-                          src="https://www.goticketspro.com/wp-content/uploads/2024/02/ChIJyT3o3nLTQIYRuXsWN3R8UjY_998c7892fdefbe10ac9f3723ae97d5a4.jpg"
-                          class="card-img-top" alt="img" />
+                        <div
+                          style="width: 50px;height: 50px; border-radius:50%; background-color: #f4e251ff; display: flex; align-items: center; justify-content: center;">
+                          <p style="font-size: 20px; font-weight: 900; color: white; margin: 0;">S</p>
+                        </div>
                         <div class="m-2">
                           <h5 style="font-size: 13px" class="card-title">
                             SHOBA GOSWAMI
@@ -1114,9 +1116,10 @@
                   <div class="col">
                     <div class="card p-3 review-card">
                       <div class="d-flex m-">
-                        <img style="width: 50px; height: 50px"
-                          src="https://www.goticketspro.com/wp-content/uploads/2024/02/ChIJyT3o3nLTQIYRuXsWN3R8UjY_e8dd98b5399bd0a48fb3b06c670d1658.jpg"
-                          class="card-img-top" alt="img" />
+                        <div
+                          style="width: 50px;height: 50px; border-radius:50%; background-color: #f5683e; display: flex; align-items: center; justify-content: center;">
+                          <p style="font-size: 20px; font-weight: 900; color: white; margin: 0;">C</p>
+                        </div>
                         <div class="m-2">
                           <h5 style="font-size: 13px" class="card-title">
                             CHANCHALA KAMBLE
