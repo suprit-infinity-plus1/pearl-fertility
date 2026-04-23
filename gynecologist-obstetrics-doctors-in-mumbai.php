@@ -65,8 +65,8 @@ Best Gynecologist & Obstetrics Doctors in dahisar">
         rel="stylesheet">
 
     <!-- Animation css -->
-    <link href="https://pearlfertilityandivf.com/css/animate.css" type="text/css" rel="stylesheet">
-    <link href="css/animate.css" type="text/css" rel="stylesheet">
+    <!-- <link href="https://pearlfertilityandivf.com/css/animate.css" type="text/css" rel="stylesheet">
+    <link href="css/animate.css" type="text/css" rel="stylesheet"> -->
 
 
     <!-- Global site tag (gtag.js) - Google Analytics -->

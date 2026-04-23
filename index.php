@@ -18,45 +18,45 @@
   <?php include "includes/tags.php" ?>
 
   <!-- boostrap -->
-  <link href="https://pearlfertilityandivf.com/home/css/bootstrap.css" rel="stylesheet" />
-  <link href="home/css/bootstrap.css" rel="stylesheet" />
+   <link href="https://pearlfertilityandivf.com/home/css/bootstrap.css" rel="stylesheet" /> 
+  <!--<link href="home/css/bootstrap.css" rel="stylesheet" />-->
 
   <!-- Bootstrap Framework Version 4.5.3 -->
-  <link href="https://pearlfertilityandivf.com/css/bootstrap.min.css" type="text/css" rel="stylesheet" />
-  <link href="css/bootstrap.min.css" type="text/css" rel="stylesheet" />
+   <link href="https://pearlfertilityandivf.com/css/bootstrap.min.css" type="text/css" rel="stylesheet" /> 
+  <!--<link href="css/bootstrap.min.css" type="text/css" rel="stylesheet" />-->
 
   <!-- Ion Icons Version 5.1.0 -->
-  <link href="https://pearlfertilityandivf.com/css/ionicons.css" type="text/css" rel="stylesheet" />
-  <link href="css/ionicons.css" type="text/css" rel="stylesheet" />
+   <link href="https://pearlfertilityandivf.com/css/ionicons.css" type="text/css" rel="stylesheet" /> 
+  <!--<link href="css/ionicons.css" type="text/css" rel="stylesheet" />-->
 
   <!-- Medical Icons -->
-  <link href="https://pearlfertilityandivf.com/css/medwise-icons.css" type="text/css" rel="stylesheet" />
-  <link href="css/medwise-icons.css" type="text/css" rel="stylesheet" />
+   <link href="https://pearlfertilityandivf.com/css/medwise-icons.css" type="text/css" rel="stylesheet" /> 
+  <!--<link href="css/medwise-icons.css" type="text/css" rel="stylesheet" />-->
 
   <!-- Stylesheets -->
-  <link href="https://pearlfertilityandivf.com/css/vendors.min.css" type="text/css" rel="stylesheet" />
-  <link href="css/vendors.min.css" type="text/css" rel="stylesheet" />
-  <link href="https://pearlfertilityandivf.com/css/style.min.css" type="text/css" rel="stylesheet" id="style" />
-  <link href="css/style.min.css" type="text/css" rel="stylesheet" id="style" />
-  <link href="https://pearlfertilityandivf.com/css/components.min.css" type="text/css" rel="stylesheet"
-    id="components" />
-  <link href="css/components.min.css" type="text/css" rel="stylesheet" id="components" />
+   <link href="https://pearlfertilityandivf.com/css/vendors.min.css" type="text/css" rel="stylesheet" /> 
+  <!--<link href="css/vendors.min.css" type="text/css" rel="stylesheet" />-->
+   <link href="https://pearlfertilityandivf.com/css/style.min.css" type="text/css" rel="stylesheet" id="style" /> 
+  <!--<link href="css/style.min.css" type="text/css" rel="stylesheet" id="style" />-->
+   <link href="https://pearlfertilityandivf.com/css/components.min.css" type="text/css" rel="stylesheet"
+    id="components" /> -->-->
+  <!--<link href="css/components.min.css" type="text/css" rel="stylesheet" id="components" />-->
 
   <!-- Animation css -->
-  <link href="https://pearlfertilityandivf.com/css/animate.css" type="text/css" rel="stylesheet" />
-  <link href="css/animate.css" type="text/css" rel="stylesheet" />
+  <!-- <link href="https://pearlfertilityandivf.com/css/animate.css" type="text/css" rel="stylesheet" /> -->
+  <!-- <link href="css/animate.css" type="text/css" rel="stylesheet" /> -->
 
   <!-- responsive css -->
-  <link href="https://pearlfertilityandivf.com/css/responsive.css" type="text/css" rel="stylesheet" />
-  <link href="css/responsive.css" type="text/css" rel="stylesheet" />
+   <link href="https://pearlfertilityandivf.com/css/responsive.css" type="text/css" rel="stylesheet" /> 
+  <!--<link href="css/responsive.css" type="text/css" rel="stylesheet" />-->
 
   <!-- slick css -->
-  <link href="https://pearlfertilityandivf.com/css/slick.css" type="text/css" rel="stylesheet" />
-  <link href="css/slick.css" type="text/css" rel="stylesheet" />
+   <link href="https://pearlfertilityandivf.com/css/slick.css" type="text/css" rel="stylesheet" /> 
+  <!--<link href="css/slick.css" type="text/css" rel="stylesheet" />-->
 
   <!-- image-gallery -->
   <link rel="stylesheet" href="https://pearlfertilityandivf.com/css/image-gallery.css" />
-  <link rel="stylesheet" href="css/image-gallery.css" />
+  <!--<link rel="stylesheet" href="css/image-gallery.css" />-->
 
   <!-- owl carousal image gallery -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />

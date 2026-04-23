@@ -8,7 +8,7 @@
                     <div class="widget widget-about">
                         <!-- Widget -->
                         <a href="index.php">
-                            <img src="_images/pearl-logo.png " class="logo-footer" alt="" />
+                            <img src="https://pearlfertilityandivf.com/_images/pearl-logo.png" class="logo-footer" alt="" />
                         </a>
                         <p class="mt-20 footer-text">
                             A wonderful serenity has taken possession of my entire soul,

@@ -37,8 +37,8 @@
     <link href="css/components.min.css" type="text/css" rel="stylesheet" id="components">
 
     <!-- Animation css -->
-    <link href="https://pearlfertilityandivf.com/css/animate.css" type="text/css" rel="stylesheet">
-    <link href="css/animate.css" type="text/css" rel="stylesheet">
+    <!-- <link href="https://pearlfertilityandivf.com/css/animate.css" type="text/css" rel="stylesheet">
+    <link href="css/animate.css" type="text/css" rel="stylesheet"> -->
 
   <!--Google Fonts-->
   <link rel="preconnect" href="https://fonts.gstatic.com/" />

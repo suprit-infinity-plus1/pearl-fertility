@@ -44,8 +44,8 @@
     <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&amp;family=Manrope:wght@300;400;600;800&amp;family=Volkhov:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap" rel="stylesheet">
 
     <!-- Animation css -->
-    <link href="https://pearlfertilityandivf.com/css/animate.css" type="text/css" rel="stylesheet">
-    <link href="css/animate.css" type="text/css" rel="stylesheet">
+    <!-- <link href="https://pearlfertilityandivf.com/css/animate.css" type="text/css" rel="stylesheet">
+    <link href="css/animate.css" type="text/css" rel="stylesheet"> -->
 
 
     <!-- Global site tag (gtag.js) - Google Analytics -->

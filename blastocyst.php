@@ -47,8 +47,8 @@
     <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&amp;family=Manrope:wght@300;400;600;800&amp;family=Volkhov:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap" rel="stylesheet">
 
     <!-- Animation css -->
-    <link href="https://pearlfertilityandivf.com/css/animate.css" type="text/css" rel="stylesheet">
-    <link href="css/animate.css" type="text/css" rel="stylesheet">
+    <!-- <link href="https://pearlfertilityandivf.com/css/animate.css" type="text/css" rel="stylesheet">
+    <link href="css/animate.css" type="text/css" rel="stylesheet"> -->
 
 
     <!--Google Fonts-->
@@ -121,7 +121,7 @@
                     <!-- <a href="https://www.betheshyft.com/" class="btn btn-primary">Know More</a> -->
                 </div>
                 <div class="col-lg-6">
-                    <img src="_images/balsto-1.jpg"  class="img-fluid mt-5 mb-2 wow fadeInRight" alt="">
+                    <img src="_images/balsto-1.jpg" class="img-fluid mt-5 mb-2 wow fadeInRight" alt="">
                 </div>
 
             </div>

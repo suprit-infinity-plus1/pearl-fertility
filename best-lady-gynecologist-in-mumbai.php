@@ -13,7 +13,7 @@
     <link rel="canonical" href="https://pearlfertilityandivf.com/best-lady-gynecologist-in-mumbai/">
 
     <title>
-        Best Lady Gynecologist in Mumbai | Best IVF Doctor in Mumbai At Pearl Fertility And IVF
+        Best Lady Gynecologist in Mumbai | Dr. Pritimala Kadam
     </title>
 
     <meta name="keywords" content="Best lady gynecologist in Mumbai,
@@ -23,37 +23,37 @@ Best lady gynecologist in kandivali,
 Best lady gynecologist in borivali,
 Best lady gynecologist in dahisar">
     <meta name="title"
-        content="Best Lady Gynecologist in Mumbai | Best IVF Doctor in Mumbai At Pearl Fertility And IVF">
+        content="Best Lady Gynecologist in Mumbai | Dr. Pritimala Kadam">
     <meta name="description"
-        content="We have team of experienced and Best IVF Doctors in Mumbai. Especially at our centre we have one of the best lady Gynecologist in Mumbai. Book Your Appointment!">
+        content="Consult Dr. Pritimala Kadam, one of the best lady gynecologists in Mumbai. Expert care for pregnancy, PCOS, infertility, IVF & women’s health. Book appointment.">
 
 
     <!-- Favicon -->
-    <link rel="icon" href="_images/favicon.png" type="image/x-icon" />
+    <link rel="icon" href="https://pearlfertilityandivf.com/_images/favicon.png" type="image/x-icon" />
 
     <!--  adding tags.php by kadir -->
     <?php include "includes/tags.php" ?>
 
     <!-- Bootstrap Framework Version 4.5.3 -->
-    <link href="https://pearlfertilityandivf.com/css/bootstrap.min.css" type="text/css" rel="stylesheet">
-    <link href="css/bootstrap.min.css" type="text/css" rel="stylesheet">
+     <link href="https://pearlfertilityandivf.com/css/bootstrap.min.css" type="text/css" rel="stylesheet"> 
+    <!--<link href="css/bootstrap.min.css" type="text/css" rel="stylesheet">-->
 
     <!-- Ion Icons Version 5.1.0 -->
-    <link href="https://pearlfertilityandivf.com/css/ionicons.css" type="text/css" rel="stylesheet">
-    <link href="css/ionicons.css" type="text/css" rel="stylesheet">
+     <link href="https://pearlfertilityandivf.com/css/ionicons.css" type="text/css" rel="stylesheet"> 
+    <!--<link href="css/ionicons.css" type="text/css" rel="stylesheet">-->
 
     <!-- Medical Icons -->
-    <link href="https://pearlfertilityandivf.com/css/medwise-icons.css" type="text/css" rel="stylesheet">
-    <link href="css/medwise-icons.css" type="text/css" rel="stylesheet">
+     <link href="https://pearlfertilityandivf.com/css/medwise-icons.css" type="text/css" rel="stylesheet"> 
+    <!--<link href="css/medwise-icons.css" type="text/css" rel="stylesheet">-->
 
     <!-- Stylesheets -->
-    <link href="https://pearlfertilityandivf.com/css/vendors.min.css" type="text/css" rel="stylesheet">
-    <link href="css/vendors.min.css" type="text/css" rel="stylesheet">
-    <link href="https://pearlfertilityandivf.com/css/style.min.css" type="text/css" rel="stylesheet" id="style">
-    <link href="css/style.min.css" type="text/css" rel="stylesheet" id="style">
-    <link href="https://pearlfertilityandivf.com/css/components.min.css" type="text/css" rel="stylesheet"
-        id="components">
-    <link href="css/components.min.css" type="text/css" rel="stylesheet" id="components">
+     <link href="https://pearlfertilityandivf.com/css/vendors.min.css" type="text/css" rel="stylesheet"> 
+    <!--<link href="css/vendors.min.css" type="text/css" rel="stylesheet">-->
+     <link href="https://pearlfertilityandivf.com/css/style.min.css" type="text/css" rel="stylesheet" id="style"> 
+    <!--<link href="css/style.min.css" type="text/css" rel="stylesheet" id="style">-->
+     <link href="https://pearlfertilityandivf.com/css/components.min.css" type="text/css" rel="stylesheet"
+    id="components"> 
+    <!--<link href="css/components.min.css" type="text/css" rel="stylesheet" id="components">-->
 
     <!--Google Fonts-->
     <link rel="preconnect" href="https://fonts.gstatic.com/">
@@ -62,8 +62,8 @@ Best lady gynecologist in dahisar">
         rel="stylesheet">
 
     <!-- Animation css -->
-    <link href="https://pearlfertilityandivf.com/css/animate.css" type="text/css" rel="stylesheet">
-    <link href="css/animate.css" type="text/css" rel="stylesheet">
+    <!-- <link href="https://pearlfertilityandivf.com/css/animate.css" type="text/css" rel="stylesheet">
+    <link href="css/animate.css" type="text/css" rel="stylesheet"> -->
 
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -91,7 +91,7 @@ Best lady gynecologist in dahisar">
     <!-- -------header------- -->
     <?php include './includes/header.php'; ?>
 
-    <div class="page-header lazy-background-unique" style="background-image: url(_images/our-doctor.jpeg);">
+    <div class="page-header lazy-background-unique" style="background-image: url(https://pearlfertilityandivf.com/_images/our-doctor.jpeg);">
         <!-- Page Header -->
         <div class="container">
             <div class="row">
@@ -128,8 +128,8 @@ Best lady gynecologist in dahisar">
             <div class="row align-items-center">
                 <div class="col-lg-3 mt-20 wow fadeInLeft">
                     <div class="doctor-img">
-                        <img src="_images/ab3.webp"  class="img-fluid rounded-circle img-thumbnail"
-                            alt="Dr.Pritimala Gangurde Kadam">
+                        <img src="https://pearlfertilityandivf.com/_images/ab3.webp"  class="img-fluid rounded-circle img-thumbnail"
+                            alt="best lady gynecologist in mumbai">
                     </div>
                 </div>
                 <div class="col-lg-5 mt-20 wow fadeInRight">
@@ -169,7 +169,7 @@ Best lady gynecologist in dahisar">
             <div class="row align-items-center">
                 <div class="col-lg-3 mt-20">
                     <div class="doctor-img">
-                        <img src="_images/dr.rupali.webp" 
+                        <img src="https://pearlfertilityandivf.com/_images/dr.rupali.webp" 
                             class="img-fluid rounded-circle img-thumbnail wow fadeInUp" alt="Dr.Rupali Gangurde">
                     </div>
                 </div>
@@ -571,38 +571,38 @@ Best lady gynecologist in dahisar">
 
     <!-- JQuery Version 3.6.0 -->
     <script src="https://pearlfertilityandivf.com/js/jquery.min.js"></script>
-    <script src="js/jquery.min.js"></script>
+    <!--<script src="js/jquery.min.js"></script>-->
 
     <!-- Bootstrap Version 4.5.3 -->
     <script src="https://pearlfertilityandivf.com/js/bootstrap.bundle.min.js"></script>
-    <script src="js/bootstrap.bundle.min.js"></script>
+    <!--<script src="js/bootstrap.bundle.min.js"></script>-->
 
     <!-- jQuery UI (Date Picker) -->
     <script src="https://pearlfertilityandivf.com/js/jquery-ui.min.js"></script>
-    <script src="js/jquery-ui.min.js"></script>
+    <!--<script src="js/jquery-ui.min.js"></script>-->
 
     <!-- Circular Progress Bar JS -->
     <script src="https://pearlfertilityandivf.com/js/circle-progress.min.js"></script>
-    <script src="js/circle-progress.min.js"></script>
+    <!--<script src="js/circle-progress.min.js"></script>-->
 
     <!-- Appear JS -->
     <script src="https://pearlfertilityandivf.com/js/jquery.appear.min.js"></script>
-    <script src="js/jquery.appear.min.js"></script>
+    <!--<script src="js/jquery.appear.min.js"></script>-->
 
     <!-- Count To JS -->
     <script src="https://pearlfertilityandivf.com/js/jquery.countTo.min.js"></script>
-    <script src="js/jquery.countTo.min.js"></script>
+    <!--<script src="js/jquery.countTo.min.js"></script>-->
 
     <!-- Slick Slider Version 1.8.1 -->
     <script src="https://pearlfertilityandivf.com/js/slick.min.js"></script>
-    <script src="js/slick.min.js"></script>
+    <!--<script src="js/slick.min.js"></script>-->
 
     <!-- Custom JS -->
     <script src="https://pearlfertilityandivf.com/js/script.min.js"></script>
-    <script src="js/script.min.js"></script>
+    <!--<script src="js/script.min.js"></script>-->
     <!-- WOW Aimation  -->
     <script src="https://pearlfertilityandivf.com/js/wow.min.js"></script>
-    <script src="js/wow.min.js"></script>
+    <!--<script src="js/wow.min.js"></script>-->
     <script>
         new WOW().init();
     </script>
