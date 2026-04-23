@@ -183,7 +183,7 @@ $document = Plugin::$instance->documents->get( Plugin::$instance->editor->get_po
 	<# if ( elementData.upsale_data && elementData.upsale_data.condition ) { #>
 	<div class="elementor-nerd-box elementor-nerd-box--upsale">
 		<# if ( elementData.upsale_data.image ) { #>
-		<img class="elementor-nerd-box-icon" src="{{ elementData.upsale_data.image }}" loading="lazy" alt="{{ elementData.upsale_data.image_alt }}" />
+		<img class="elementor-nerd-box-icon" src="{{ elementData.upsale_data.image }}"  alt="{{ elementData.upsale_data.image_alt }}" />
 		<# } #>
 		<# if ( elementData.upsale_data.title ) { #>
 		<div class="elementor-nerd-box-title">{{{ elementData.upsale_data.title }}}</div>
@@ -199,7 +199,7 @@ $document = Plugin::$instance->documents->get( Plugin::$instance->editor->get_po
 </script>
 
 <script type="text/template" id="tmpl-elementor-panel-schemes-disabled">
-	<img class="elementor-nerd-box-icon" src="<?php Utils::print_unescaped_internal_string( ELEMENTOR_ASSETS_URL . 'images/information.svg' ); ?>" loading="lazy" alt="<?php echo esc_attr__( 'Elementor', 'elementor' ); ?>" />
+	<img class="elementor-nerd-box-icon" src="<?php Utils::print_unescaped_internal_string( ELEMENTOR_ASSETS_URL . 'images/information.svg' ); ?>"  alt="<?php echo esc_attr__( 'Elementor', 'elementor' ); ?>" />
 	<div class="elementor-nerd-box-title">{{{ '<?php echo esc_html__( '%s are disabled', 'elementor' ); // phpcs:ignore WordPress.WP.I18n.MissingTranslatorsComment ?>'.replace( '%s', disabledTitle ) }}}</div>
 	<div class="elementor-nerd-box-message"><?php
 		printf(

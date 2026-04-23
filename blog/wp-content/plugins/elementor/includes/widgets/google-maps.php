@@ -307,7 +307,7 @@ class Widget_Google_Maps extends Widget_Base {
 
 		?>
 		<div class="elementor-custom-embed">
-			<iframe loading="lazy"
+			<iframe 
 					src="<?php echo esc_url( vsprintf( $url, $params ) ); ?>"
 					title="<?php echo esc_attr( $settings['address'] ); ?>"
 					aria-label="<?php echo esc_attr( $settings['address'] ); ?>"

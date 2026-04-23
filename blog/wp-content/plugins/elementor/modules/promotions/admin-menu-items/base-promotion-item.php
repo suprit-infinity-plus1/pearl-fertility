@@ -56,7 +56,7 @@ abstract class Base_Promotion_Item implements Promotion_Menu_Item {
 		?>
 		<div class="wrap">
 			<div class="elementor-blank_state">
-				<img src="<?php echo esc_url( $config['image'] ?? $this->get_image_url() ); ?>" loading="lazy" />
+				<img src="<?php echo esc_url( $config['image'] ?? $this->get_image_url() ); ?>"  />
 
 				<h3><?php echo esc_html( $config['title'] ?? $this->get_promotion_title() ); ?></h3>
 				<?php if ( $description ) : ?>

@@ -159,7 +159,7 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-5 pr-30 mt-20 wow fadeInLeft">
-                    <img src="_images/ab3.jpg" loading="lazy" class="img-fluid  img-thumbnail" style="border-radius: 50%;" alt="">
+                    <img src="_images/ab3.jpg"  class="img-fluid  img-thumbnail" style="border-radius: 50%;" alt="">
                 </div>
                 <div class="col-lg-7 pl-30 mt-20 wow fadeInRight">
                     <h3 class="heading font-bold mb-10">Best Lady Gynecologist</h3>
@@ -344,7 +344,7 @@
                                     <p class="testimonial-text font-style-3 font-italic">“Dr. Pritimala is incredable. Not only has she taken great care of my health, but also she is lovely to speak with at every appointment thank you doctor”</p>
                                     <div class="testimonial-author">
                                         <div class="testi-img">
-                                            <img src="_images/1test-1-150x150-1.jpg" loading="lazy" class="img-fluid" alt="">
+                                            <img src="_images/1test-1-150x150-1.jpg"  class="img-fluid" alt="">
                                         </div>
                                         <div class="testi-name">
                                             <h6 class="heading font-bold font-2">SNEHA BHIWANDKAR</h6>
@@ -358,7 +358,7 @@
                                     <p class="testimonial-text font-style-3 font-italic">“It's a great experience to have such a talented doctor like doctor pritimala gangurde kadam to achieve my motherhood journey. Thanks a lot, Ma'am. I am always will be grateful to you”</p>
                                     <div class="testimonial-author">
                                         <div class="testi-img">
-                                            <img src="_images/1test-1-150x150-1.jpg" loading="lazy" class="img-fluid" alt="">
+                                            <img src="_images/1test-1-150x150-1.jpg"  class="img-fluid" alt="">
                                         </div>
                                         <div class="testi-name">
                                             <h6 class="heading font-bold font-2">SHOBA GOSWAMI</h6>
@@ -372,7 +372,7 @@
                                     <p class="testimonial-text font-style-3 font-italic">“A very good IVF center.Dr. Pritimala is very caring and cooperative. In every appointment she is taking proper care of my health. Thank you madam for your kind support. ”</p>
                                     <div class="testimonial-author">
                                         <div class="testi-img">
-                                            <img src="_images/1test-1-150x150-1.jpg" loading="lazy" class="img-fluid" alt="">
+                                            <img src="_images/1test-1-150x150-1.jpg"  class="img-fluid" alt="">
                                         </div>
                                         <div class="testi-name">
                                             <h6 class="heading font-bold font-2">CHANCHALA KAMBLE</h6>
@@ -386,7 +386,7 @@
                                     <p class="testimonial-text font-style-3 font-italic">Separated they live in Bookmarksgrove right at the coast of the Semantics. Behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                                     <div class="testimonial-author">
                                         <div class="testi-img">
-                                            <img src="images/250-250-4.jpg" loading="lazy" class="img-fluid" alt="">
+                                            <img src="images/250-250-4.jpg"  class="img-fluid" alt="">
                                         </div>
                                         <div class="testi-name">
                                             <h6 class="heading font-bold font-2">Micheal Jones</h6>

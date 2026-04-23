@@ -120,7 +120,7 @@
                     <!-- <a href="https://www.betheshyft.com/" class="btn btn-primary">Know More</a> -->
                 </div>
                 <div class="col-lg-6 col-12 wow fadeInRight">
-                    <img src="./web-page-images/automated-semen-analyser-img.jpg" loading="lazy" class="img-fluid mt-lg-5 mb-2" alt="">
+                    <img src="./web-page-images/automated-semen-analyser-img.jpg"  class="img-fluid mt-lg-5 mb-2" alt="">
                 </div>
 
             </div>

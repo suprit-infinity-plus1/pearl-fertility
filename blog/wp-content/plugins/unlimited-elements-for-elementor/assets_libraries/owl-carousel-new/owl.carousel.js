@@ -855,7 +855,7 @@
 		  
 	    }
 
-      var objLazyAttr = objChild.find('[loading="lazy"]');
+      var objLazyAttr = objChild.find('[]');
 
       if(objLazyAttr && objLazyAttr.length != 0){
         objLazyAttr.removeAttr("loading");

@@ -115,7 +115,7 @@
             <div class="row">
                 <div class="col-lg-4 mt-20">
                     <div class="doctor-img">
-                        <img src="_images/ab2.jpg" loading="lazy" class="img-fluid wow fadeInLeft" alt="">
+                        <img src="_images/ab2.jpg"  class="img-fluid wow fadeInLeft" alt="">
                     </div>
                 </div>
                 <div class="col-lg-8 mt-20 wow fadeInRight">
@@ -136,7 +136,7 @@
             <div class="row">
                 <div class="col-lg-4 mt-20">
                     <div class="doctor-img">
-                        <img src="_images/dr.rupali.jpg" loading="lazy" class="img-fluid wow fadeInLeft" alt="">
+                        <img src="_images/dr.rupali.jpg"  class="img-fluid wow fadeInLeft" alt="">
                     </div>
                 </div>
                 <div class="col-lg-8 mt-20 wow fadeInRight">

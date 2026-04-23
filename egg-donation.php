@@ -113,7 +113,7 @@
                     <!-- <a href="https://www.betheshyft.com/" class="btn btn-primary">Know More</a> -->
                 </div>
                 <div class="col-lg-6 text-center wow fadeInRight">
-                    <img src="_images/laproscopy-2.png" loading="lazy" class="img-fluid mt-5 mb-2" alt="">
+                    <img src="_images/laproscopy-2.png"  class="img-fluid mt-5 mb-2" alt="">
                 </div>
 
             </div>
@@ -125,7 +125,7 @@
         <div class="container">
             <div class="row  d-flex align-items-start">
                 <div class="col-lg-6 text-center wow fadeInLeft">
-                    <img src="_images/donor.png" loading="lazy" class="img-fluid mt-5 mb-2" alt="">
+                    <img src="_images/donor.png"  class="img-fluid mt-5 mb-2" alt="">
                 </div>
                 <div class="col-lg-6 pt-40 pb-40 pl-40 pr-40 wow fadeInRight ">
                     <h2 class="heading font-bold mb-20">What Should Be Kept In Mind For Female Egg Donation?</h2>

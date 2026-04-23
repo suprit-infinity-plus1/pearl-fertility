@@ -117,7 +117,7 @@ class Group_Control_Image_Size extends Group_Control_Base {
 				$image_class_html = ! empty( $image_class ) ? ' class="' . esc_attr( $image_class ) . '"' : '';
 
 				$html .= sprintf(
-					'<img src="%1$s" title="%2$s" alt="%3$s"%4$s loading="lazy" />',
+					'<img src="%1$s" title="%2$s" alt="%3$s"%4$s  />',
 					esc_url( $image_src ),
 					esc_attr( Control_Media::get_image_title( $image ) ),
 					esc_attr( Control_Media::get_image_alt( $image ) ),

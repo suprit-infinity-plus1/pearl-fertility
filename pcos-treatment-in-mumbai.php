@@ -115,7 +115,7 @@ PCOS treatment in dahisar">
                     <!-- <a href="https://www.betheshyft.com/" class="btn btn-primary">Know More</a> -->
                 </div>
                 <div class="col-lg-6 col-12 wow fadeInRight">
-                    <img src="./web-page-images/PCOD-img.jpg" loading="lazy" class="img-fluid mt-5 mb-2" alt="">
+                    <img src="./web-page-images/PCOD-img.jpg"  class="img-fluid mt-5 mb-2" alt="">
                 </div>
 
             </div>
@@ -127,7 +127,7 @@ PCOS treatment in dahisar">
         <div class="container">
             <div class="row  d-flex align-items-start">
                 <div class="col-lg-6 col-12">
-                    <img src="./web-page-images/PCOD-img2.jpg" loading="lazy" class="img-fluid mt-5 mb-2 wow fadeInLeft" alt="">
+                    <img src="./web-page-images/PCOD-img2.jpg"  class="img-fluid mt-5 mb-2 wow fadeInLeft" alt="">
                 </div>
                 <div class="col-lg-6 col-12 pt-40 pb-40 pl-40 pr-40 wow fadeInRight">
                     <h2 class="heading font-bold mb-20">What Is Cause Of PCOD / PCOS?</h2>

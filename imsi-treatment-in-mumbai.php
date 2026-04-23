@@ -113,7 +113,7 @@
                     <!-- <a href="https://www.betheshyft.com/" class="btn btn-primary">Know More</a> -->
                 </div>
                 <div class="col-lg-6 wow fadeInRight">
-                    <img src="_images/IMSI.png" loading="lazy" class="img-fluid mt-5 mb-2" alt="">
+                    <img src="_images/IMSI.png"  class="img-fluid mt-5 mb-2" alt="">
                 </div>
 
             </div>

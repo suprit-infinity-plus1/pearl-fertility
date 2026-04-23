@@ -95,7 +95,7 @@ class WP_Widget_RSS extends WP_Widget {
 				esc_url( $feed_url ),
 				esc_url( $feed_icon ),
 				esc_attr__( 'RSS' ),
-				( wp_lazy_loading_enabled( 'img', 'rss_widget_feed_icon' ) ? ' loading="lazy"' : '' )
+				( wp_lazy_loading_enabled( 'img', 'rss_widget_feed_icon' ) ? ' ' : '' )
 			);
 
 			/**

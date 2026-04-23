@@ -128,7 +128,7 @@
                     <!-- <a href="https://www.betheshyft.com/" class="btn btn-primary">Know More</a> -->
                 </div>
                 <div class="col-lg-6 col-12 wow fadeInRight">
-                    <img src="./web-page-images/infertility.jpg" loading="lazy" class="img-fluid mt-lg-5 pb-40 col-12" alt="">
+                    <img src="./web-page-images/infertility.jpg"  class="img-fluid mt-lg-5 pb-40 col-12" alt="">
                 </div>
 
             </div>
@@ -158,7 +158,7 @@
         <div class="container bg-light">
             <div class="row d-flex align-items-start">
                 <div class="col-lg-6 col-12 ">
-                    <img src="./web-page-images/automated-semen-analyser-img.jpg" loading="lazy" class="img-fluid mt-5 wow fadeInLeft" alt="">
+                    <img src="./web-page-images/automated-semen-analyser-img.jpg"  class="img-fluid mt-5 wow fadeInLeft" alt="">
                 </div>
                 <div class="col-lg-6 col-12 pt-40 pb-40 pl-40 pr-40 wow fadeInRight">
                     <h2 class="heading font-bold mb-20">What is Semen analysis and how it is done?</h2>

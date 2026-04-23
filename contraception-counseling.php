@@ -123,7 +123,7 @@
                     <p class="h5 mb-30"><span class="font-bold">1.	Contraceptive Options:</span> Providers will explain the various contraceptive methods available, including hormonal methods such as birth control pills, patches, injections, and implants, as well as non-hormonal methods such as condoms, diaphragms, cervical caps, and intrauterine devices (IUDs). They will discuss the effectiveness, benefits, side effects, and usage instructions for each method.</p>
                 </div>
                 <div class="col-lg-6 col-12 wow fadeInRight">
-                    <img src="web-page-images/contraception-counseling-img.jpg" loading="lazy" class="img-fluid col-12 mt-lg-5 pb-30" alt="">
+                    <img src="web-page-images/contraception-counseling-img.jpg"  class="img-fluid col-12 mt-lg-5 pb-30" alt="">
                 </div>
 
             </div>

@@ -115,7 +115,7 @@
                     <!-- <a href="https://www.betheshyft.com/" class="btn btn-primary">Know More</a> -->
                 </div>
                 <div class="col-lg-6 wow fadeInRight">
-                    <img src="_images/hypro-1.png" loading="lazy" class="img-fluid mt-5" alt="">
+                    <img src="_images/hypro-1.png"  class="img-fluid mt-5" alt="">
                 </div>
 
             </div>
@@ -148,7 +148,7 @@
                     <!-- <a href="https://www.betheshyft.com/" class="btn btn-primary">Know More</a> -->
                 </div>
                 <div class="col-lg-6 col-md-6 col-12 wow fadeInRight">
-                    <img src="_images/hypro-2.png" loading="lazy" class="img-fluid" alt="">
+                    <img src="_images/hypro-2.png"  class="img-fluid" alt="">
                 </div>
             </div>
         </div>

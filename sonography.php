@@ -119,7 +119,7 @@
                     <!-- <a href="https://www.betheshyft.com/" class="btn btn-primary">Know More</a> -->
                 </div>
                 <div class="col-lg-6 col-12 pb-40 wow fadeInRight">
-                    <img src="web-page-images/sonography-img.jpg" loading="lazy" class="img-fluid mt-5 mb-2" alt="">
+                    <img src="web-page-images/sonography-img.jpg"  class="img-fluid mt-5 mb-2" alt="">
                 </div>
 
             </div>

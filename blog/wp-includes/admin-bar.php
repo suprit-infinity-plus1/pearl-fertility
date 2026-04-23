@@ -689,7 +689,7 @@ function wp_admin_bar_my_sites_menu( $wp_admin_bar ) {
 				'<img class="blavatar" src="%s" srcset="%s 2x" alt="" width="16" height="16"%s />',
 				esc_url( get_site_icon_url( 16 ) ),
 				esc_url( get_site_icon_url( 32 ) ),
-				( wp_lazy_loading_enabled( 'img', 'site_icon_in_toolbar' ) ? ' loading="lazy"' : '' )
+				( wp_lazy_loading_enabled( 'img', 'site_icon_in_toolbar' ) ? ' ' : '' )
 			);
 		} else {
 			$blavatar = '<div class="blavatar"></div>';

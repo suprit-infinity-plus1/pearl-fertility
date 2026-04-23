@@ -439,7 +439,7 @@ class Settings extends Settings_Page {
 										/* translators: 1: fetchpriority attribute, 2: lazy loading attribute. */
 										esc_html__( 'Improve performance by applying %1$s on LCP image and %2$s on images below the fold.', 'elementor' ),
 										'<code>fetchpriority="high"</code>',
-										'<code>loading="lazy"</code>'
+										'<code></code>'
 									),
 								],
 							],

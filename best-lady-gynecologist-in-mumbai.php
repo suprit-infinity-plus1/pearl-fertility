@@ -128,7 +128,7 @@ Best lady gynecologist in dahisar">
             <div class="row align-items-center">
                 <div class="col-lg-3 mt-20 wow fadeInLeft">
                     <div class="doctor-img">
-                        <img src="_images/ab3.webp" loading="lazy" class="img-fluid rounded-circle img-thumbnail"
+                        <img src="_images/ab3.webp"  class="img-fluid rounded-circle img-thumbnail"
                             alt="Dr.Pritimala Gangurde Kadam">
                     </div>
                 </div>
@@ -169,7 +169,7 @@ Best lady gynecologist in dahisar">
             <div class="row align-items-center">
                 <div class="col-lg-3 mt-20">
                     <div class="doctor-img">
-                        <img src="_images/dr.rupali.webp" loading="lazy"
+                        <img src="_images/dr.rupali.webp" 
                             class="img-fluid rounded-circle img-thumbnail wow fadeInUp" alt="Dr.Rupali Gangurde">
                     </div>
                 </div>

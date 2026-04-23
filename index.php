@@ -214,7 +214,7 @@
 
   <!-- <div class="loader-backdrop">
       <div class="loader">
-        <img src="_images/favicon.png" loading="lazy" width="100px " />
+        <img src="_images/favicon.png"  width="100px " />
       </div>
     </div> -->
 
@@ -296,7 +296,7 @@
                   </div>
                   <!--// Slider Content End-->
                   <div class="slider-img">
-                    <!-- <img src="_images/h2-slider-02.png" loading="lazy" alt="img" /> -->
+                    <!-- <img src="_images/h2-slider-02.png"  alt="img" /> -->
                   </div>
                   <!--// Slider Img-->
                 </div>
@@ -413,7 +413,7 @@
                   </div>
                   <!--// Slider Content End-->
                   <div class="slider-img">
-                    <!-- <img src="_images/h2-slider-02.png" loading="lazy" alt="img" /> -->
+                    <!-- <img src="_images/h2-slider-02.png"  alt="img" /> -->
                   </div>
                   <!--// Slider Img-->
                 </div>
@@ -533,7 +533,7 @@
           <a href="book-appointment.php" class="btn btn-primary mt-40">Consult us today</a>
         </div>
         <div class="col-lg-5 col-md-6 order-lg-1 mt-40 mt-lg-0">
-          <img src="images/700-886-1.png" loading="lazy" class="img-fluid" alt="" />
+          <img src="images/700-886-1.png"  class="img-fluid" alt="" />
         </div>
       </div>
     </div>
@@ -597,7 +597,7 @@
           </p>
           <a href="why-us-2.html" class="btn btn-primary mt-20">Read More</a>
           
-          <img src="_images/microscope.png" loading="lazy" class="img-accordation" style="width: 450px; height: 350px;">
+          <img src="_images/microscope.png"  class="img-accordation" style="width: 450px; height: 350px;">
         </div>
         <div class="col-lg-6 pl-lg-30 mt-20">
             <div id="a2" class="accordion-2" role="tablist">
@@ -688,7 +688,7 @@
             <div class="item">
               <div class="department-box-1 bg-blue">
                 <div class="dep-icon">
-                  <!-- <img src="_images/abort-service-1.png" loading="lazy" style="width: 80%;"> -->
+                  <!-- <img src="_images/abort-service-1.png"  style="width: 80%;"> -->
                   <i class="mw-stretcher"></i>
                 </div>
                 <h4 class="heading font-bold mt-10 mb-10">IVF Services</h4>
@@ -889,7 +889,7 @@
         <div class="col-lg-8 text-center wow fadeInUp">
           <!-- <div class="icon icon-4x ">
             <i class="mw-care font-18"></i>
-            <img src="_images/pearl-logo.png" loading="lazy">
+            <img src="_images/pearl-logo.png" >
           </div> -->
           <h3 class="heading font-bold mt-20 mb-20">
             "Accessible,
@@ -935,7 +935,7 @@
                 </p>
                 <div class="testimonial-author">
                   <div class="testi-img">
-                    <img src="_images/1test-1-150x150-1.jpg" loading="lazy" class="img-fluid" alt="" />
+                    <img src="_images/1test-1-150x150-1.jpg"  class="img-fluid" alt="" />
                   </div>
                   <div class="testi-name">
                     <h6 class="heading font-bold font-2 text-white">
@@ -951,7 +951,7 @@
                 </p>
                 <div class="testimonial-author">
                   <div class="testi-img">
-                    <img src="_images/1test-1-150x150-1.jpg" loading="lazy" class="img-fluid" alt="" />
+                    <img src="_images/1test-1-150x150-1.jpg"  class="img-fluid" alt="" />
                   </div>
                   <div class="testi-name">
                     <h6 class="heading font-bold font-2 text-white">
@@ -967,7 +967,7 @@
                 </p>
                 <div class="testimonial-author">
                   <div class="testi-img">
-                    <img src="_images/1test-1-150x150-1.jpg" loading="lazy" class="img-fluid" alt="" />
+                    <img src="_images/1test-1-150x150-1.jpg"  class="img-fluid" alt="" />
                   </div>
                   <div class="testi-name">
                     <h6 class="heading font-bold font-2 text-white">
@@ -1103,7 +1103,7 @@
                             <path d="M20 20h472v472H20V20z"></path>
                           </g>
                         </svg>
-                        <!-- <img style="width: 20px;position: relative;left: 50px;" loading="lazy" src="assets/img/google.png" alt="img"> -->
+                        <!-- <img style="width: 20px;position: relative;left: 50px;"  src="assets/img/google.png" alt="img"> -->
                       </div>
                     </div>
                   </div>
@@ -1159,7 +1159,7 @@
                           </g>
                         </svg>
 
-                        <!-- <img style="width: 20px;position: relative;left: 50px;" loading="lazy" src="assets/img/google.png" alt="img"> -->
+                        <!-- <img style="width: 20px;position: relative;left: 50px;"  src="assets/img/google.png" alt="img"> -->
                       </div>
                     </div>
                   </div>
@@ -1392,7 +1392,7 @@
       </div>
 
       <div class="col-lg-5 col-md-6 order-lg-1 mt-20 wow fadeInUp">
-        <img src="images/700-783-1.png" loading="lazy" class="img-fluid" alt="" />
+        <img src="images/700-783-1.png"  class="img-fluid" alt="" />
       </div>
     </div>
   </div>
@@ -1518,67 +1518,67 @@
               <div class="owl-carousel owl-theme" id="gallery-2">
                 <div class="item">
                   <a href="img-gallery/29.png" data-fancybox="gallery">
-                    <img src="img-gallery/29.png" loading="lazy" alt="Image 1" />
+                    <img src="img-gallery/29.png"  alt="Image 1" />
                   </a>
                 </div>
                 <div class="item">
                   <a href="img-gallery/2.png" data-fancybox="gallery">
-                    <img src="img-gallery/2.png" loading="lazy" alt="Image 1" />
+                    <img src="img-gallery/2.png"  alt="Image 1" />
                   </a>
                 </div>
                 <div class="item">
                   <a href="img-gallery/3.png" data-fancybox="gallery">
-                    <img src="img-gallery/3.png" loading="lazy" alt="Image 1" />
+                    <img src="img-gallery/3.png"  alt="Image 1" />
                   </a>
                 </div>
                 <div class="item">
                   <a href="img-gallery/5.png" data-fancybox="gallery">
-                    <img src="img-gallery/5.png" loading="lazy" alt="Image 1" />
+                    <img src="img-gallery/5.png"  alt="Image 1" />
                   </a>
                 </div>
                 <div class="item">
                   <a href="img-gallery/6.png" data-fancybox="gallery">
-                    <img src="img-gallery/6.png" loading="lazy" alt="Image 1" />
+                    <img src="img-gallery/6.png"  alt="Image 1" />
                   </a>
                 </div>
                 <div class="item">
                   <a href="img-gallery/7.png" data-fancybox="gallery">
-                    <img src="img-gallery/7.png" loading="lazy" alt="Image 1" />
+                    <img src="img-gallery/7.png"  alt="Image 1" />
                   </a>
                 </div>
                 <div class="item">
                   <a href="img-gallery/8.png" data-fancybox="gallery">
-                    <img src="img-gallery/8.png" loading="lazy" alt="Image 1" />
+                    <img src="img-gallery/8.png"  alt="Image 1" />
                   </a>
                 </div>
                 <div class="item">
                   <a href="img-gallery/9.png" data-fancybox="gallery">
-                    <img src="img-gallery/9.png" loading="lazy" alt="Image 1" />
+                    <img src="img-gallery/9.png"  alt="Image 1" />
                   </a>
                 </div>
                 <div class="item">
                   <a href="img-gallery/10.png" data-fancybox="gallery">
-                    <img src="img-gallery/10.png" loading="lazy" alt="Image 1" />
+                    <img src="img-gallery/10.png"  alt="Image 1" />
                   </a>
                 </div>
                 <div class="item">
                   <a href="img-gallery/11.png" data-fancybox="gallery">
-                    <img src="img-gallery/11.png" loading="lazy" alt="Image 1" />
+                    <img src="img-gallery/11.png"  alt="Image 1" />
                   </a>
                 </div>
                 <div class="item">
                   <a href="img-gallery/12.png" data-fancybox="gallery">
-                    <img src="img-gallery/12.png" loading="lazy" alt="Image 1" />
+                    <img src="img-gallery/12.png"  alt="Image 1" />
                   </a>
                 </div>
                 <div class="item">
                   <a href="img-gallery/13.png" data-fancybox="gallery">
-                    <img src="img-gallery/13.png" loading="lazy" alt="Image 1" />
+                    <img src="img-gallery/13.png"  alt="Image 1" />
                   </a>
                 </div>
                 <div class="item">
                   <a href="img-gallery/14.png" data-fancybox="gallery">
-                    <img src="img-gallery/14.png" loading="lazy" alt="Image 1" />
+                    <img src="img-gallery/14.png"  alt="Image 1" />
                   </a>
                 </div>
               </div>
@@ -1587,72 +1587,72 @@
               <div class="owl-carousel owl-theme" id="gallery-3">
                 <div class="item">
                   <a href="img-gallery/15.png" data-fancybox="gallery">
-                    <img src="img-gallery/15.png" loading="lazy" alt="Image 1" />
+                    <img src="img-gallery/15.png"  alt="Image 1" />
                   </a>
                 </div>
                 <div class="item">
                   <a href="img-gallery/16.png" data-fancybox="gallery">
-                    <img src="img-gallery/16.png" loading="lazy" alt="Image 1" />
+                    <img src="img-gallery/16.png"  alt="Image 1" />
                   </a>
                 </div>
                 <div class="item">
                   <a href="img-gallery/17.png" data-fancybox="gallery">
-                    <img src="img-gallery/17.png" loading="lazy" alt="Image 1" />
+                    <img src="img-gallery/17.png"  alt="Image 1" />
                   </a>
                 </div>
                 <div class="item">
                   <a href="img-gallery/18.png" data-fancybox="gallery">
-                    <img src="img-gallery/18.png" loading="lazy" alt="Image 1" />
+                    <img src="img-gallery/18.png"  alt="Image 1" />
                   </a>
                 </div>
                 <div class="item">
                   <a href="img-gallery/19.png" data-fancybox="gallery">
-                    <img src="img-gallery/19.png" loading="lazy" alt="Image 1" />
+                    <img src="img-gallery/19.png"  alt="Image 1" />
                   </a>
                 </div>
                 <div class="item">
                   <a href="img-gallery/20.png" data-fancybox="gallery">
-                    <img src="img-gallery/20.png" loading="lazy" alt="Image 1" />
+                    <img src="img-gallery/20.png"  alt="Image 1" />
                   </a>
                 </div>
                 <div class="item">
                   <a href="img-gallery/21.png" data-fancybox="gallery">
-                    <img src="img-gallery/21.png" loading="lazy" alt="Image 1" />
+                    <img src="img-gallery/21.png"  alt="Image 1" />
                   </a>
                 </div>
                 <div class="item">
                   <a href="img-gallery/22.png" data-fancybox="gallery">
-                    <img src="img-gallery/22.png" loading="lazy" alt="Image 1" />
+                    <img src="img-gallery/22.png"  alt="Image 1" />
                   </a>
                 </div>
                 <div class="item">
                   <a href="img-gallery/23.png" data-fancybox="gallery">
-                    <img src="img-gallery/23.png" loading="lazy" alt="Image 1" />
+                    <img src="img-gallery/23.png"  alt="Image 1" />
                   </a>
                 </div>
                 <div class="item">
                   <a href="img-gallery/24.png" data-fancybox="gallery">
-                    <img src="img-gallery/24.png" loading="lazy" alt="Image 1" />
+                    <img src="img-gallery/24.png"  alt="Image 1" />
                   </a>
                 </div>
                 <div class="item">
                   <a href="img-gallery/25.png" data-fancybox="gallery">
-                    <img src="img-gallery/25.png" loading="lazy" alt="Image 1" />
+                    <img src="img-gallery/25.png"  alt="Image 1" />
                   </a>
                 </div>
                 <div class="item">
                   <a href="img-gallery/26.png" data-fancybox="gallery">
-                    <img src="img-gallery/26.png" loading="lazy" alt="Image 1" />
+                    <img src="img-gallery/26.png"  alt="Image 1" />
                   </a>
                 </div>
                 <div class="item">
                   <a href="img-gallery/27.png" data-fancybox="gallery">
-                    <img src="img-gallery/27.png" loading="lazy" alt="Image 1" />
+                    <img src="img-gallery/27.png"  alt="Image 1" />
                   </a>
                 </div>
                 <div class="item">
                   <a href="img-gallery/28.png" data-fancybox="gallery">
-                    <img src="img-gallery/28.png" loading="lazy" alt="Image 1" />
+                    <img src="img-gallery/28.png"  alt="Image 1" />
                   </a>
                 </div>
               </div>
@@ -1680,7 +1680,7 @@
   </div>
   <section id="nutrition-yoga-container" class="container">
     <div id="nutrition-yoga-img-container" class="wow fadeInLeft">
-      <img src="_images/64664596.cms" loading="lazy" id="nutrition-yoga-img" alt="img" />
+      <img src="_images/64664596.cms"  id="nutrition-yoga-img" alt="img" />
     </div>
     <div id="nutrition-yoga-content-container" class="wow fadeInRight">
       <h3 class="heading font-bold">Nutrition & Yoga.</h3>
@@ -1767,7 +1767,7 @@
     <!--  <div class="col-md-4 col-12 home-blog-card">-->
     <!--    <div class="home-blog-card-img-container">-->
     <!--      <img-->
-    <!--        src="images/blog-img/blog-1.png" loading="lazy"-->
+    <!--        src="images/blog-img/blog-1.png" -->
     <!--        alt=""-->
     <!--      />-->
     <!--    </div>-->
@@ -1786,7 +1786,7 @@
     <!--  <div class="col-md-4 col-12 home-blog-card">-->
     <!--    <div class="home-blog-card-img-container">-->
     <!--      <img-->
-    <!--        src="images/blog-img/blog-2.jpg" loading="lazy"-->
+    <!--        src="images/blog-img/blog-2.jpg" -->
     <!--        alt=""-->
     <!--      />-->
     <!--    </div>-->
@@ -1805,7 +1805,7 @@
     <!--  <div class="col-md-4 col-12 home-blog-card">-->
     <!--    <div class="home-blog-card-img-container">-->
     <!--      <img-->
-    <!--        src="images/blog-img/blog-3.jpg" loading="lazy"-->
+    <!--        src="images/blog-img/blog-3.jpg" -->
     <!--        alt=""-->
     <!--      />-->
     <!--    </div>-->

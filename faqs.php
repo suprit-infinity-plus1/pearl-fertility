@@ -172,7 +172,7 @@
         </div>
       </div>
       <div class="col-lg-5 col-md-6 order-lg-1 mt-5 wow fadeInRight">
-        <img src="images/700-783-1.png" loading="lazy" class="img-fluid" alt="" />
+        <img src="images/700-783-1.png"  class="img-fluid" alt="" />
       </div>
     </div>
   </div>

@@ -121,7 +121,7 @@
                     <!-- <a href="https://www.betheshyft.com/" class="btn btn-primary">Know More</a> -->
                 </div>
                 <div class="col-lg-6">
-                    <img src="_images/balsto-1.jpg" loading="lazy" class="img-fluid mt-5 mb-2 wow fadeInRight" alt="">
+                    <img src="_images/balsto-1.jpg"  class="img-fluid mt-5 mb-2 wow fadeInRight" alt="">
                 </div>
 
             </div>

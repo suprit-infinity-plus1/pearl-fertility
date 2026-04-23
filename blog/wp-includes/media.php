@@ -5951,7 +5951,7 @@ function wp_get_webp_info( $filename ) {
  * - `decoding` attribute with a value of "async"
  *
  * If any of these attributes are already present in the given attributes, they will not be modified. Note that no
- * element should have both `loading="lazy"` and `fetchpriority="high"`, so the function will trigger a warning in case
+ * element should have both `` and `fetchpriority="high"`, so the function will trigger a warning in case
  * both attributes are present with those values.
  *
  * @since 6.3.0
@@ -6147,7 +6147,7 @@ function wp_get_loading_optimization_attributes( $tag_name, $attr, $context ) {
 	if ( $maybe_in_viewport ) {
 		$loading_attrs = wp_maybe_add_fetchpriority_high_attr( $loading_attrs, $tag_name, $attr );
 	} else {
-		// Only add `loading="lazy"` if the feature is enabled.
+		// Only add `` if the feature is enabled.
 		if ( wp_lazy_loading_enabled( $tag_name, $context ) ) {
 			$loading_attrs['loading'] = 'lazy';
 		}

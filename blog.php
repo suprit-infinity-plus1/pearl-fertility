@@ -99,7 +99,7 @@
       <div class="col-lg-8">
         <div class="blog-box">
           <div class="blog-header">
-            <img src="images/900-476-1.jpg" loading="lazy" class="img-fluid rounded" alt="" />
+            <img src="images/900-476-1.jpg"  class="img-fluid rounded" alt="" />
             <h3 class="heading font-bold post-title">
               <a href="blog-artical.php">How technology can help you become healthy</a>
             </h3>
@@ -131,7 +131,7 @@
         </div>
         <div class="blog-box">
           <div class="blog-header">
-            <img src="images/900-476-2.jpg" loading="lazy" class="img-fluid rounded" alt="" />
+            <img src="images/900-476-2.jpg"  class="img-fluid rounded" alt="" />
             <h3 class="heading font-bold post-title">
               <a href="blog-artical.php">Healthier options for those hunger-pangs</a>
             </h3>
@@ -163,7 +163,7 @@
         </div>
         <div class="blog-box">
           <div class="blog-header">
-            <img src="images/900-476-3.jpg" loading="lazy" class="img-fluid rounded" alt="" />
+            <img src="images/900-476-3.jpg"  class="img-fluid rounded" alt="" />
             <h3 class="heading font-bold post-title">
               <a href="blog-artical.php">Complete guide to shoulder & neck pain</a>
             </h3>
@@ -195,7 +195,7 @@
         </div>
         <div class="blog-box">
           <div class="blog-header">
-            <img src="images/900-476-1.jpg" loading="lazy" class="img-fluid rounded" alt="" />
+            <img src="images/900-476-1.jpg"  class="img-fluid rounded" alt="" />
             <h3 class="heading font-bold post-title">
               <a href="blog-artical.php">How too much running can damage your ankle</a>
             </h3>

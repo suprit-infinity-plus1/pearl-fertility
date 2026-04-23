@@ -122,7 +122,7 @@
                     <p class="h5 mb-30">Menopause clinics typically offer a range of services tailored to help women manage symptoms and maintain their overall health during this stage of life. Some common services and areas of focus may include:</p>
                 </div>
                 <div class="col-lg-6 col-md-6 col-12 wow fadeInRight">
-                    <img src="./web-page-images/menoapause-img.jpeg" loading="lazy"  class="img-fluid mt-5" alt="">
+                    <img src="./web-page-images/menoapause-img.jpeg"   class="img-fluid mt-5" alt="">
                 </div>
 
             </div>

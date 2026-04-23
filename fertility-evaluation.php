@@ -138,7 +138,7 @@
                     <!-- <a href="https://www.betheshyft.com/" class="btn btn-primary">Know More</a> -->
                 </div>
                 <div class="col-lg-6 col-12 wow fadeInRight">
-                    <img src="images/fertility-eveluation.jpg" loading="lazy" class="img-fluid mt-5 mb-5" style="width:100%" alt="">
+                    <img src="images/fertility-eveluation.jpg"  class="img-fluid mt-5 mb-5" style="width:100%" alt="">
                 </div>
 
             </div>

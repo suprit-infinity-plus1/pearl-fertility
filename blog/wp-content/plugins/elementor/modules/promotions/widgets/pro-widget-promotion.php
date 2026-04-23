@@ -70,7 +70,7 @@ class Pro_Widget_Promotion extends Widget_Base {
 		<div class="e-container">
 			<span class="e-badge"><i class="eicon-lock" aria-hidden="true"></i> <?php echo esc_html__( 'Pro', 'elementor' ); ?></span>
 			<p>
-				<img src="<?php echo esc_url( $promotion['image_url'] ); ?>" loading="lazy" alt="Go Pro">
+				<img src="<?php echo esc_url( $promotion['image_url'] ); ?>"  alt="Go Pro">
 				<?php
 					echo esc_html( $promotion['text'] );
 				?>

@@ -1190,10 +1190,10 @@
 * New: Added an option to disable Google Fonts integration from font-family control
 * Tweak: Added `preload="metadata"` to self hosted videos in Video widget ([#17308](https://github.com/elementor/elementor/issues/17308))
 * Tweak: Added `preload` selector to self hosted videos in Video widget ([#17308](https://github.com/elementor/elementor/issues/17308))
-* Tweak: Added `loading="lazy"` for custom size in media control ([#17884](https://github.com/elementor/elementor/issues/17884))
+* Tweak: Added `` for custom size in media control ([#17884](https://github.com/elementor/elementor/issues/17884))
 * Tweak: Added additional units for width and height in Icon List widget (props [@rodolphebertozzo](https://github.com/rodolphebertozzo))
 * Tweak: Added additional units for icon size in Icon List Widget (props [@rodolphebertozzo](https://github.com/rodolphebertozzo))
-* Tweak: Added `loading="lazy"` to Google Map widget
+* Tweak: Added `` to Google Map widget
 * Tweak: Updated `eicons` library to 5.17.0
 * Tweak: Merged various experiments to the version
 * Tweak: Promoted various experiments to Beta and Stable status
