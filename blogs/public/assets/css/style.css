@@ -1,0 +1,133 @@
+.home-slider-area .bg-1 {
+    /* background: url('../images/slide1.png') no-repeat center right; */
+    background: url("../images/drsamidhashukla-banner1.jpg") no-repeat center
+        right;
+    background-size: cover;
+}
+
+.home-slider-area .bg-2 {
+    /* background: url('../images/slide2.png') no-repeat center right; */
+    background: url("../images/drsamidhashukla-banner2.jpg") no-repeat center
+        right;
+    background-size: cover;
+}
+
+.home-slider-area .bg-3 {
+    background: url("../images/slide3.png") no-repeat center right;
+    background-size: cover;
+}
+
+.home-slider-area .bg-4 {
+    /* background: url('../image/slide4.png') no-repeat center right; */
+    background-image: url("../images/slide4.png");
+    background-repeat: no-repeat;
+    background-position: center right;
+    background-size: cover;
+}
+
+.navbar-title {
+    font-size: 34px; /* default (desktop and larger screens) */
+}
+
+@media (max-width: 575.98px) {
+    .navbar-title {
+        font-size: 24px; /* smaller for mobile (< sm) */
+    }
+}
+
+@media only screen and (max-width: 769px) {
+    .home-slider-area .slider-items {
+        max-height: 500px !important;
+        min-height: unset;
+    }
+
+    .slider-title h1 {
+        /* color: white !important; */
+        /* text-shadow: 3px 3px 5px black; */
+        line-height: 50px !important;
+    }
+
+    .slider-paragraph p {
+        /* color: white !important; */
+        /* text-shadow: 3px 3px 5px black; */
+    }
+}
+
+@media only screen and (max-width: 426px) {
+    .slider-paragraph {
+        padding-top: 0 !important;
+        padding-bottom: 0 !important;
+    }
+
+    .slider-paragraph p {
+        margin-bottom: 0px !important;
+    }
+
+    .home-slider-area .slider-items {
+        max-height: 350px !important;
+        min-height: unset;
+    }
+
+    .slider-title h1 {
+        line-height: 50px !important;
+    }
+}
+
+.review-card {
+    position: relative;
+}
+
+.review-card .google-svg {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+#google-review .item .review-card {
+    min-height: 400px !important;
+}
+
+@media only screen and (max-width: 1200px) {
+    #google-review .item .review-card {
+        min-height: 450px !important;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    #google-review .item .review-card {
+        min-height: 350px !important;
+    }
+}
+
+@media only screen and (max-width: 988px) {
+    #google-review .item .review-card {
+        min-height: 450px !important;
+    }
+}
+
+@media only screen and (max-width: 786px) {
+    #google-review .item .review-card {
+        min-height: 350px !important;
+    }
+}
+
+.owl-carousel .item {
+    margin: 0 auto;
+}
+
+.owl-carousel .item img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+@media only screen and (max-width: 991px) {
+    .home-slider-area.style-02 .slider-items::after {
+        background-color: transparent;
+    }
+
+    .home-slider-area.style-02 .slider-items .slider-items-wrap::after {
+        background-color: transparent;
+    }
+}
+
